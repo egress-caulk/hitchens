@@ -2,7 +2,6 @@
 layout: post
 title: "Deer Enclosure"
 author: "Wang Wei"
-categories: poetry
 ---
 
 
