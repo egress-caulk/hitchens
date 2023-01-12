@@ -5,11 +5,6 @@ author: "Wang Wei 王維 (699 - 759)"
 category: poetry
 ---
 
-First captured my attention
-
-Elusive second stanza hasn't made it into popular culture
-
-Style
 
 <br>
   
