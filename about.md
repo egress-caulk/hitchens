@@ -3,15 +3,12 @@ layout: post
 title: About
 ---
 
-Undoubtably one of the great minds of our time, Christopher Hitchens challenged his readers to think deeply on topics of politics, religion, war, and science. This Jekyll theme is designed in his memory.
+> “The dictionary is based on the hypothesis – obviously an unproven one – that languages are made up of equivalent synonyms.” - Jorge Luis Borges
 
-<figure>
-  <img alt="Christopher Hitchens" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
-  <figcaption>
-    Photo by Fri Tanke and licensed under the <a href="https://creativecommons.org/licenses/by/3.0/deed.en">Creative Commons Attribution 3.0 Unported</a> license.
-  </figcaption>
-</figure>
+<br>
 
-From [Wikipedia](https://en.wikipedia.org/wiki/Christopher_Hitchens):
+This website is intended as a call-back to how I remember the internet of the nineties. It was a place where hobbyists would publish pages related to their interests in a world that was more simple and straightforward than it is now. It was full of websites built with care and attention that no-one visited. And it didn't matter so much.
 
->Christopher Eric Hitchens (13 April 1949 – 15 December 2011) was an Anglo-American author, columnist, essayist, orator, religious and literary critic, social critic, and journalist. Hitchens was the author, co-author, editor or co-editor of over 30 books, including five collections of essays on culture, politics and literature. A staple of public discourse, his confrontational style of debate made him both a lauded intellectual and a controversial public figure. He contributed to New Statesman, The Nation, The Weekly Standard, The Atlantic, London Review of Books, The Times Literary Supplement, Slate, Free Inquiry and Vanity Fair.
+<br>
+
+While I don't profess to being an expert or having any academic expertise of note, I've long been interested in classical Chinese literature. I enjoy the process of translation: uncovering and interpreting multiple layers of meaning. When I find a piece of poetry or prose to translate, I'll post it here.
