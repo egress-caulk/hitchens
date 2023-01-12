@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Deer Enclosure"
-author: "Wang Wei 王維 (699 - 759)"
 category: poetry
 ---
+<br>
 
->Let's start from the beginning shall we? Not from the beginning of Chinese recorded history, rather my own experience with old Chinese poems. This was the first Chinese poem to really capture my attention.
+Let's start from the beginning shall we? Not from the beginning of Chinese recorded history, rather my own experience with old Chinese poems. This was the first Chinese poem to really capture my attention.
 
 <br>
 
@@ -14,6 +14,8 @@ There are people far more qualified than I who can tell you about Wang Wei 王�
 <br>
 
 This poem is one of his most famous, and therefore one of his most translated. However, almost all translations focus only on the first stanza. The elusive second stanza hasn't quite made it into popular culture, but I feel it adds much more meaning.
+
+<br>
 
 <br>
   
