@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Deer Enclosure"
+title: "Deer Place"
 category: poetry
 ---
 <br>
 
-Let's start from the beginning shall we? Not from the beginning of Chinese recorded history, rather my own experience with old Chinese poems. This was the first Chinese poem to really capture my attention.
+Let's start from the beginning shall we? Not from the beginning of Chinese recorded history, rather my own experience with classical Chinese poetry. This was the first Chinese poem to really capture my attention.
 
 <br>
 
@@ -66,3 +66,15 @@ This poem is one of his most famous, and therefore one of his most translated. H
   only the tracks left by the water deer
   
   <br><br>
+
+Translation Notes:
+
+<br>
+
+The first characters presented to us pose some fun challenges. First, the title, *Luzhai* 鹿柴, is understood to be the name of a place close to where the poet lived. The second character is often translated as enclosure, or the title is often translated as *Deer Park* but I have chosen to convey the meaning of a place where deer are.
+  
+The first characters of the poem itself *kongshan* 空山 literally mean 'empty mountain'. We can already get quite deep here, and try to reflect the poet's focus on emptiness rather than the mountain itself. However, to Western eyes I think the idea of wilderness is more easily conveyed. A place where the poet is alone, which may already imply more spiritual ideas.
+  
+The first stanza is a joy to translate, so much so that [an entire book](http://www.rochester.edu/College/translation/threepercent/2017/02/28/nineteen-ways-of-looking-at-wang-wei/) has been written about the different approaches that can be taken. The poem can be read as taking place between two realms: the human realm which manifests itself more clearly as the poem goes on, and the spiritual realm represented by the elusive deer and depictions of the natural world. 
+  
+[Some translators](https://www.learnancientchinesepoetry.org/2016/10/22/wang-wei-deer-park/) take this idea further in the first stanza, by interpreting the character *fan* 返 as referring to an indirect light source. Therefore, rather than the light returning after a period of absence, the light itself is being reflected from another object not mentioned (we might imagine from the leaves of a tree) and this *indirect* light source illuminates the green moss. This dual meaning is tough to translate in poetic form, but the phrase 'light returning' is suitable because the light has something modifying it with this phrasing.
