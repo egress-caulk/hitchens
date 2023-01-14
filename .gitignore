@@ -5,3 +5,8 @@
 _site
 _drafts
 Gemfile.lock
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+*.DS_Store
