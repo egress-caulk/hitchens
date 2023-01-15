@@ -15,4 +15,4 @@ While I don't profess to being an expert or having any academic expertise of not
 
 <br>
 
-When I find a piece of poetry or prose to translate, I'll post it on this site. As the old saying goes, *pao zhuan yin yu* 拋磚引玉, may the bricks that I have cast attract jade.
+When I find a piece of poetry or prose to translate, I'll post my translations on this site. As the old saying goes, *pao zhuan yin yu* 拋磚引玉, may the bricks that I have cast attract jade.

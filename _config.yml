@@ -16,12 +16,13 @@
 title: Steve Lipscombe
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  A selection of classical Chinese translations by me.
+  A selection of classical Chinese translations.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://stevelipscom.be"
 icon: favicon.ico
 twitter_username: 
-github_username:  
+github_username:
+mailchimp-list: //stevelipscom.us21.list-manage.com/subscribe/post?u=14c7cf6be4e922e6fa5658d82&amp;id=2da45d4c93&amp;f_id=0035d5e1f0  
 
 # Build settings
 markdown: kramdown

@@ -53,7 +53,7 @@ This poem is one of his most famous, and therefore one of his most translated. H
   
   light returning enters the deep forest
   
-  once more illuminating green moss
+  once more illuminating green moss above
     
   <br>
   
