@@ -18,7 +18,7 @@ email:
 description: Historical Chinese poetry in translation.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://stevelipscom.be"
-icon: favicon.ico
+icon: /favicon.ico
 mailchimp-list: //stevelipscom.us21.list-manage.com/subscribe/post?u=14c7cf6be4e922e6fa5658d82&amp;id=2da45d4c93&amp;f_id=0035d5e1f0  
 
 # Build settings
