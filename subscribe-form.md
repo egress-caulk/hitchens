@@ -4,8 +4,9 @@ permalink: /subscribe-form.html
 title: Subscribe to my mailing list
 ---
 
+<center>
 Keep updated with my occasional poetry updates.
-
+<br><br>
 <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
     <div class="mc-field-group">
         <input type="email" placeholder="Email" name="EMAIL" class="required email" id="mce-EMAIL" autocomplete="on">
@@ -32,4 +33,4 @@ Keep updated with my occasional poetry updates.
         color: #eee;
     }
 </style> 
-
+</center>
