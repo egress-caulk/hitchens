@@ -6,7 +6,7 @@ category: poetry
 
 <br>
 
-Here one of the most accomplished figures in classical Chinese literature, Su Shi 蘇軾 (1037 - 1101) takes us on a journey to watch white cranes and overhears a game of *weiqi*, the Chinese name for Go, the ancient board game. One of my favourite couplets comes at the end of this poem, a vivid imagining of living the good life.
+Here one of the most accomplished figures in classical Chinese literature Su Shi 蘇軾 (1037 - 1101) takes us on a journey to watch white cranes and overhears a game of *weiqi*, the Chinese name for the ancient board game Go. One of my favourite couplets comes at the end of this poem, a vivid imagining of living the good life.
   
 <br>
   
@@ -49,4 +49,4 @@ Translation notes
 
 There are a few tricky phrases, particularly in the preamble. It took me a while to figure out that *guo* 过 (to pass) in this context must be a euphemism for his son passing away, much like the English usage of the word.<br>
 
-The real action comes in the last line, with two phrases so famous that they have both entered the dictionary. However, as their usage has become more common, the dictionary definition doesn't quite do justice to their poetic impact. The character *zai* 哉 is an exclamation, and here we see it recur twice. So, a huge amount of emphasis is being placed on this feeling of being leisurely and carefree. Finally, in case any Chinese nerds are interested in how I arrived at my translation, we have *liao* 聊 (for a while) *fu* 复 (a conjunction) *er* 尔 ('like this' similar in meaning to *ran* 然), and *er* 耳 (*eryi* 而已 in Modern Chinese, 'and nothing else').
+The real action comes in the last line, with two phrases so famous that they have both entered the dictionary. However, as their usage has become more common, the dictionary definition doesn't quite do justice to their poetic impact. The character *zai* 哉 is an exclamation, and here we see it recur twice. So, a huge amount of emphasis is being placed on this feeling of being leisurely and carefree. Finally, we have *liao* 聊 (for a while) *fu* 复 (a conjunction) *er* 尔 ('like this' similar in meaning to *ran* 然), and *er* 耳 (*eryi* 而已 in Modern Chinese, 'and nothing else').
