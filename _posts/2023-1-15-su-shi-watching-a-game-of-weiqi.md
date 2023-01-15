@@ -47,6 +47,6 @@ Translation notes
 
 <br>
 
-There are a few tricky phrases, particularly in the preamble. It took me a while to figure out that *guo* 过 (to pass) in this context must be a euphemism for his son passing away, much like the English usage of the word.<br>
+There are a few tricky phrases, particularly in the preamble. It took me a while to figure out that *guo* 过 (to pass) in this context might be a euphemism for his son passing away, much like the English usage of the word.<br>
 
 The real action comes in the last line, with two phrases so famous that they have both entered the dictionary. However, as their usage has become more common, the dictionary definition doesn't quite do justice to their poetic impact. The character *zai* 哉 is an exclamation, and here we see it recur twice. So, a huge amount of emphasis is being placed on this feeling of being leisurely and carefree. Finally, we have *liao* 聊 (for a while) *fu* 復 (a conjunction) *er* 爾 ('like this' similar in meaning to *ran* 然), and *er* 耳 (*eryi* 而已 in Modern Chinese, 'and nothing else').
