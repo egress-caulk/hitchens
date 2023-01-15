@@ -6,25 +6,25 @@ category: poetry
 
 <br>
 
-Here one of the most accomplished figures in classical Chinese literature Su Shi 蘇軾 (1037 - 1101) takes us on a journey to watch white cranes and overhears a game of *weiqi*, the Chinese name for the ancient board game Go. One of my favourite couplets comes at the end of this poem, a vivid imagining of living the good life.
+Su Shi 蘇軾 (1037 - 1101), one of the most accomplished figures in classical Chinese literature, takes us on a journey to watch white cranes and overhears a game of *weiqi* - the Chinese name for the ancient board game Go. One of my favourite couplets comes at the end of this poem, a vivid imagining of living the good life.
   
 <br>
   
->**观棋**
+>**觀棋**
 
   
->予素不解棋，尝独游庐山白鹤观，观中人皆阖户昼寝，独闻棋声于古松流水之间，意欣然喜之，自尔欲学，然终不解也。儿子过乃粗能者，儋守张中日从之戏，予亦隅坐，竟日不以为厌也。
+>予素不解棋，嘗獨游廬山白鶴觀，觀中人皆闔戶晝寢，獨聞棋聲於古松流水之間，意欣然喜之，自爾欲學，然終不解也。兒子過乃粗能者，儋守張中日從之戲，予亦隅坐，竟日不以為厭也。
   
->五老峰前，白鹤遗址。<br>
->长松荫庭，风日清美。<br>
->我时独游，不逢一士。<br>
->谁欤棋者，户外屦二。<br>
->不闻人声，时闻落子。<br>
->纹枰坐对，谁究此味。<br>
->空钩意钓，岂在鲂鲤。<br>
->小儿近道，剥啄信指。<br>
->胜固欣然，败亦可喜。<br>
->优哉游哉，聊复尔耳。<br> <br>
+>五老峰前，白鶴遺址。<br>
+>長松蔭庭，風日清美。<br>
+>我時獨游，不逢一士。<br>
+>誰歟棋者，戶外屨二。<br>
+>不聞人聲，時聞落子。<br>
+>紋枰坐對，誰究此味。<br>
+>空鈎意釣，豈在魴鯉。<br>
+>小兒近道，剝啄信指。<br>
+>勝固欣然，敗亦可喜。<br>
+>優哉游哉，聊復爾耳。<br> <br>
 
 >**Contemplating A Game of Weiqi**
 <br>      
@@ -49,4 +49,4 @@ Translation notes
 
 There are a few tricky phrases, particularly in the preamble. It took me a while to figure out that *guo* 过 (to pass) in this context must be a euphemism for his son passing away, much like the English usage of the word.<br>
 
-The real action comes in the last line, with two phrases so famous that they have both entered the dictionary. However, as their usage has become more common, the dictionary definition doesn't quite do justice to their poetic impact. The character *zai* 哉 is an exclamation, and here we see it recur twice. So, a huge amount of emphasis is being placed on this feeling of being leisurely and carefree. Finally, we have *liao* 聊 (for a while) *fu* 复 (a conjunction) *er* 尔 ('like this' similar in meaning to *ran* 然), and *er* 耳 (*eryi* 而已 in Modern Chinese, 'and nothing else').
+The real action comes in the last line, with two phrases so famous that they have both entered the dictionary. However, as their usage has become more common, the dictionary definition doesn't quite do justice to their poetic impact. The character *zai* 哉 is an exclamation, and here we see it recur twice. So, a huge amount of emphasis is being placed on this feeling of being leisurely and carefree. Finally, we have *liao* 聊 (for a while) *fu* 復 (a conjunction) *er* 爾 ('like this' similar in meaning to *ran* 然), and *er* 耳 (*eryi* 而已 in Modern Chinese, 'and nothing else').
