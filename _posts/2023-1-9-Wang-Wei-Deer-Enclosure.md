@@ -1,30 +1,20 @@
 ---
 layout: post
 title: "Deer Place"
+author: Wang Wei 王維 (699 - 759)
 category: poetry
 ---
-<br>
 
-Let's start from the beginning shall we? Not from the beginning of Chinese recorded history, rather my own experience with classical Chinese poetry. This was the first Chinese poem to really capture my attention.
+Let's start from the beginning shall we? Not from the beginning of Chinese recorded history, rather my own experience with classical Chinese poetry. This was the first Chinese poem to really capture my attention. There are people far more qualified than I who can tell you about Wang Wei. He was a minor official who was famous, even in his own time, for his writing. And, much of his writing was imbued with Buddhist themes. This poem is one of his most famous, and therefore one of his most translated. However, almost all translations focus only on the first stanza. The elusive second stanza hasn't quite made it into popular culture, but I feel it adds much more meaning. 
 
-<br>
+<br> <br>
 
-There are people far more qualified than I who can tell you about Wang Wei 王維 (699 - 759). He was a minor official who was famous, even in his own time, for his writing. And, much of his writing was imbued with Buddhist themes.
-
-<br>
-
-This poem is one of his most famous, and therefore one of his most translated. However, almost all translations focus only on the first stanza. The elusive second stanza hasn't quite made it into popular culture, but I feel it adds much more meaning.
-
-<br>
-
-<br>
-  
   **鹿柴** 
   
   <br>
-    
-  空山不見人，
   
+  空山不見人，
+
   但聞人語響。
 	
   返景入深林，
@@ -43,7 +33,7 @@ This poem is one of his most famous, and therefore one of his most translated. H
   
   <br><br>
   
-  **Deer Place** 
+ **Deer Place** 
   
   <br>
   
@@ -67,9 +57,7 @@ This poem is one of his most famous, and therefore one of his most translated. H
   
   <br><br>
 
-Translation Notes:
-
-<br>
+##### Translation Notes
 
 The first characters presented to us pose some fun challenges. First, the title, *Luzhai* 鹿柴, is understood to be the name of a place close to where the poet lived. The second character is often translated as enclosure, or the title is often translated as *Deer Park* but I have chosen to convey the meaning of a place where deer are.
   

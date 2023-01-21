@@ -1,12 +1,10 @@
 ---
 layout: post
 title: "Contemplating A Game of Weiqi"
+author: Su Shi 蘇軾 (1037 - 1101)
 category: poetry
 ---
-
-<br>
-
-Su Shi 蘇軾 (1037 - 1101), one of the most accomplished figures in classical Chinese literature, takes us on a journey to watch white cranes and overhears a game of *weiqi* - the Chinese name for the ancient board game Go. One of my favourite couplets comes at the end of this poem, a vivid imagining of living the good life.
+Su Shi, one of the most accomplished figures in classical Chinese literature, takes us on a journey to watch white cranes and overhears a game of *weiqi* - the Chinese name for the ancient board game Go. One of my favourite couplets comes at the end of this poem, a vivid imagining of living the good life.
   
 <br>
   
@@ -41,11 +39,9 @@ Su Shi 蘇軾 (1037 - 1101), one of the most accomplished figures in classical C
 >When fishing with an empty hook, does one really expect to land bream and carp? <br>
 >A small boy is close to the Way of things, as stones tap the board he trusts his fingers. <br>
 >To win is certainly pleasurable, even defeat can be joyful. <br>
->Drifting along unhurried and easy! For a while like this and nothing more.<br> <br>
+>Drifting along unhurried and easy! For a while like this and nothing more. <br>
 
-Translation notes
-
-<br>
+##### Translation notes
 
 There are a few tricky phrases, particularly in the preamble. It took me a while to figure out that *guo* 过 (to pass) in this context might be a euphemism for his son passing away, much like the English usage of the word. Another tricky phrase is *bozhuo* 剝啄 (purely onomatopoeic, used to convey a pecking sound or in modern usage the sound of tapping a window). I couldn't come up with an English equivalent, so I had to insert the subject/object, 'stones tap the board'. <br>
 
