@@ -16,7 +16,7 @@ The genre of *shanshui* 山水 (landscape, literally 'mountain water') poetry an
 >星漢燦爛，若出其里。 <br>
 >幸甚至哉，歌以詠志。 <br><br>
 
->**Behold the deep blue sea** <br>
+>**Behold The Deep Blue Sea** <br>
 
 >I headed east for Jieshi mountain, to behold the deep blue sea. <br>
 >How rough and roiling the tide! Mountainous islands stand tall. <br>

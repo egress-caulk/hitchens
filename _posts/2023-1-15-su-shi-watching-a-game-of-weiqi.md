@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Contemplating A Game of Weiqi"
+title: "Contemplating A Game Of Weiqi"
 author: Su Shi 蘇軾 (1037 - 1101)
 category: poetry
 ---
