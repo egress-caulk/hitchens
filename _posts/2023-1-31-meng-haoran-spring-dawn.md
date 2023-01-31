@@ -4,7 +4,7 @@ title: "Spring Dawn"
 author: Meng Haoran 孟浩然 (689 - 740)
 category: poetry
 ---
-This poem by Meng Haoran may have once been the most famous poem in China: it was one of the first poems that generations of educated Chinese children would memorise owing to its place on the first page of the *Qianjia Shi* 千家詩 (A Thousand Family Poems) anthology. Evidenced by many of his other poems, Meng Haoran liked to drink. This poem was written after a sleepless night, but I also like to imagine him slightly hungover.
+This poem by Meng Haoran may have once been the most famous poem in China: it was one of the first poems that generations of educated Chinese children would memorise owing to its place on the first page of the anthology *Qianjia Shi* 千家詩 (A Thousand Family Poems). Evidenced by many of his other poems, Meng Haoran liked to drink. This poem was written after a sleepless night, I like to imagine him slightly hungover.
   
 <br>
   
