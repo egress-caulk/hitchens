@@ -5,7 +5,7 @@ title: Subscribe to my mailing list
 ---
 
 <center>
-Keep updated with my occasional poetry updates.
+Receive my occasional poetry updates by email.
 <br><br>
 <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
     <div class="mc-field-group">
