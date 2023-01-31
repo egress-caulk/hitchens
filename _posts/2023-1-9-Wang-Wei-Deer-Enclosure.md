@@ -5,7 +5,7 @@ author: Wang Wei 王維 (699 - 759)
 category: poetry
 ---
 
-Let's start from the beginning shall we? Not from the beginning of Chinese recorded history, rather my own experience with classical Chinese poetry. This was the first Chinese poem to really capture my attention. There are people far more qualified than I who can tell you about Wang Wei. He was a minor official who was famous, even in his own time, for his writing. And, much of his writing was imbued with Buddhist themes. This poem is one of his most famous, and therefore one of his most translated. However, almost all translations focus only on the first stanza. The elusive second stanza hasn't quite made it into popular culture, but I feel it adds much more meaning. 
+Let's start from the beginning shall we? Not from the beginning of Chinese recorded history, rather my own experience with classical Chinese poetry. This was the first Chinese poem to really capture my attention. Much of Wang Wei's writing is imbued with Buddhist themes. This poem is one of his most famous, and therefore one of his most translated. However, almost all translations focus only on the first stanza. The elusive second stanza hasn't quite made it into popular culture, but I feel it adds much more meaning. 
 
 <br> <br>
 

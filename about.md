@@ -2,7 +2,6 @@
 layout: post
 title: About
 ---
-
 > “The dictionary is based on the hypothesis – obviously an unproven one – that languages are made up of equivalent synonyms.” - Jorge Luis Borges
 
 <br>
