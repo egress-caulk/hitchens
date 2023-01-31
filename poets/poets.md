@@ -3,7 +3,7 @@ layout: post
 title: Poets
 category: poets
 ---
-A list of all the poets whose poetry is featured on this website, arranged by dynasty.
+All the poets whose poetry can be found on this website, arranged by dynasty.
 
 #### Han Dynasty
 [Cao Cao](/poets/cao-cao.html) 曹操 (155 - 220)
