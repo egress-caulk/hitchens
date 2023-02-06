@@ -2,11 +2,6 @@
 layout: default
 ---
 
-{% if site.data.menu and site.paginate and site.paginate_path and paginator.page > 1 %}
-  {% include menu.html %}
-{% elsif site.paginate and site.paginate_path and paginator.page > 1 %}
-  {% include back-link.html %}
-{% else %}
   <header class="site-masthead">
     {% include menu.html %}
     {% if site.title %}
@@ -20,13 +15,12 @@ layout: default
       </h2>
     {% endif %}
   </header>
-{% endif %}
 
 <main class="home" id="main" role="main" aria-label="Content">
 
   <h1 class="content-title divided">
     {% if site.paginate and site.paginate_path and paginator.page > 1 %}
-      Page {{ paginator.page }}
+Contents
     {% else %}
       Contents
     {% endif %}
@@ -43,14 +37,14 @@ layout: default
     {% if paginator.total_pages > 1 %}
 
       <div class="post-pagination">
-        {% if paginator.next_page %}
-          <a href="{{ paginator.next_page_path | prepend: site.baseurl  }}" class="pagination-next btn">&lang;&nbsp;Older</a>
+       {% if paginator.previous_page %}
+          <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="pagination-previous btn">&lang;&nbsp;Newer</a>
         {% else %}
           <span>&nbsp;</span>
         {% endif %}
         <span class="pagination-number">{{ paginator.page }} of {{ paginator.total_pages }}</span>
-        {% if paginator.previous_page %}
-          <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="pagination-previous btn">Newer&nbsp;&rang;</a>
+        {% if paginator.next_page %}
+          <a href="{{ paginator.next_page_path | prepend: site.baseurl  }}" class="pagination-next btn">Older&nbsp;&rang;</a>
         {% else %}
           <span>&nbsp;</span>
         {% endif %}

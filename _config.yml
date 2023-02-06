@@ -42,5 +42,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
+paginate: 4
+paginate_path: "/page/:num/"
+
 hide_search: true
 hide_credits: true
