@@ -1,7 +1,7 @@
 ---
-layout: post
-permalink: /subscribe-form.html
-title: Subscribe to my mailing list
+layout: page
+title: Newsletter
+permalink: /:basename
 ---
 
 <center>

@@ -1,8 +1,8 @@
 - title: About
-  url: /about.html
+  url: /about
 
 - title: Poets
-  url: /poets/poets.html
+  url: /poets
 
-- title: Subscribe
-  url: /subscribe-form.html
+- title: Newsletter
+  url: /subscribe-form

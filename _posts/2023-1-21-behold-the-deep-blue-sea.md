@@ -2,7 +2,7 @@
 layout: post
 title: "Behold The Deep Blue Sea"
 author: Cao Cao 曹操 (155 - 220)
-category: poetry
+category: poems
 ---
 The genre of *shanshui* 山水 (landscape, literally 'mountain water') poetry and art is what first drew me to Chinese history and culture. This poem by the warlord and statesman Cao Cao is one of the earliest examples of such poetry in Chinese recorded history. Almost two thousand years ago, between his numerous campaigns to unify Northern China and conquer neighbouring warlords, Cao Cao wrote the following:
 

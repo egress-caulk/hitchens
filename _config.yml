@@ -21,6 +21,8 @@ url: "https://stevelipscom.be"
 icon: /favicon.ico
 mailchimp-list: //stevelipscom.us21.list-manage.com/subscribe/post?u=14c7cf6be4e922e6fa5658d82&amp;id=2da45d4c93&amp;f_id=0035d5e1f0  
 
+permalink: /:categories/:title
+
 # Build settings
 markdown: kramdown
 
@@ -40,5 +42,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-hide_credits: true
 hide_search: true
+hide_credits: true
