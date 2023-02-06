@@ -3,8 +3,9 @@ layout: post
 title: "Contemplating A Game Of Weiqi"
 author: Su Shi 蘇軾 (1037 - 1101)
 category: poems
+excerpt_separator: <!--more-->
 ---
-Su Shi, one of the most accomplished figures in classical Chinese literature, takes us on a journey to watch white cranes and overhears a game of *weiqi* - the Chinese name for the ancient board game Go. One of my favourite couplets comes at the end of this poem, a vivid imagining of living the good life.
+Su Shi, one of the most accomplished figures in classical Chinese literature, takes us on a journey to watch white cranes and overhears a game of *weiqi*<!--more--> - the Chinese name for the ancient board game Go. One of my favourite couplets comes at the end of this poem, a vivid imagining of living the good life.
   
 <br>
   
