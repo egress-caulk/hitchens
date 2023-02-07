@@ -51,3 +51,21 @@ show_excerpts: true
 excerpt_length: 0
 hide_search: true
 hide_credits: true
+
+# poets and poems
+
+cao-cao: poets/cao-cao.md
+behold-the-deep-blue-sea: _posts/2023-1-21-behold-the-deep-blue-sea.md
+
+li-bai: poets/li-bai.md
+
+meng-haoran: poets/meng-haoran.md
+spring-dawn: _posts/2023-1-31-spring-dawn.md
+
+su-shi: poets/su-shi.md
+contemplating-a-game-of-weiqi: _posts/2023-1-15-contemplating-a-game-of-weiqi.md
+
+wang-wei: poets/wang-wei.md
+deer-place: _posts/2023-1-9-deer-place.md
+writing-on-a-happening: _posts/2023-2-4-writing-on-a-happening.md
+

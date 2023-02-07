@@ -9,4 +9,4 @@ Many of the Tang dynasty (618 - 907) poets featured on this website were low-lev
 
 ##### Poems
 
->[Contemplating A Game Of Weiqi](/poems/contemplating-a-game-of-weiqi)
+>[Contemplating A Game Of Weiqi]({% link {{ site.contemplating-a-game-of-weiqi }} %})

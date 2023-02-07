@@ -8,5 +8,5 @@ Wang Wei 王維 (699 - 759) was one of the first Chinese poets I read. The Tang 
 
 ##### Poems
 
->[Deer Place](/poems/deer-place) <br>
->[Writing On A Happening](/poems/writing-on-a-happening)
+>[Deer Place]({% link {{ site.deer-place }} %}) <br>
+>[Writing On A Happening]({% link {{ site.writing-on-a-happening }} %})

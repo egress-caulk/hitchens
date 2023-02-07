@@ -2,7 +2,7 @@
 layout: post
 title: "Deer Place"
 author: Wang Wei 王維 (699 - 759)
-category: poems
+category: poets wang-wei
 excerpt_separator: <!--more-->
 ---
 

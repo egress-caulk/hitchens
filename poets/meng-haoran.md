@@ -9,4 +9,4 @@ During the Song dynasty (960 - 1279) it was fashionable to think of Meng Haoran 
 
 ##### Poems
 
->[Spring Dawn](/poems/spring-dawn)
+>[Spring Dawn]({% link {{ site.spring-dawn }} %})
