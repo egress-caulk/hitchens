@@ -66,6 +66,6 @@ su-shi: /poets/su-shi.md
 contemplating-a-game-of-weiqi: /_posts/2023-1-15-contemplating-a-game-of-weiqi.md
 
 wang-wei: /poets/wang-wei.md
-deer-place: {{ site.baseurl }}/_posts/2023-1-9-deer-place.md
+deer-place: /_posts/2023-1-9-deer-place.md
 writing-on-a-happening: /_posts/2023-2-4-writing-on-a-happening.md
 
