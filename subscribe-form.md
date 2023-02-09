@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Newsletter
-permalink: /:basename
+permalink: /newsletter
 ---
 
 <center>
