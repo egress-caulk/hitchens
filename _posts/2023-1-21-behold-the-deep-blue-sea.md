@@ -5,6 +5,8 @@ author: Cao Cao
 chinesename: 曹操
 dates: 155 - 220
 categories: poets cao-cao
+permalink: /:categories/:title
+short_title: behold-the-deep-blue-sea
 excerpt_separator: <!--more-->
 ---
  This poem by the warlord and statesman Cao Cao is one of the earliest examples of landscape poetry in Chinese recorded history<!--more-->. The genre of *shanshui* 山水 (landscape, literally 'mountain water') poetry and art is what first drew me to Chinese history and culture. Almost two thousand years ago, between his numerous campaigns to unify Northern China and conquer neighbouring warlords, Cao Cao wrote the following:
