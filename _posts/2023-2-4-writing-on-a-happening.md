@@ -5,6 +5,7 @@ author: Wang Wei 王維
 dates: 699 - 759
 categories: poets wang-wei
 permalink: /:categories/:title
+short_author: wang-wei
 short_title: writing-on-a-happening
 excerpt_separator: <!--more-->
 ---

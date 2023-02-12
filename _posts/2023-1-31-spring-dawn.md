@@ -5,6 +5,7 @@ author: Meng Haoran 孟浩然
 dates: 689 - 740
 categories: poets meng-haoran
 permalink: /:categories/:title
+short_author: meng-haoran
 short_title: spring-dawn
 excerpt_separator: <!--more-->
 ---

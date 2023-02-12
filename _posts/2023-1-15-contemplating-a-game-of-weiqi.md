@@ -5,6 +5,7 @@ author: Su Shi 蘇軾
 dates: 1037 - 1101
 categories: poets su-shi
 permalink: /:categories/:title
+short_author: su-shi
 short_title: contemplating-a-game-of-weiqi
 excerpt_separator: <!--more-->
 ---

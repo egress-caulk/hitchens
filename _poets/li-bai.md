@@ -7,8 +7,8 @@ Li Bai 李白 (701 - 762) is one of the most famous poets of the High Tang 盛�
 ##### Poems
 
 <ul>
-  {% assign filtered_posts = site.posts | where: 'author', page.short_name %}
+  {% assign filtered_posts = site.posts | where: 'author', page.title %}
   {% for post in filtered_posts %}
-    <a href="{{ post.short_title }}">{{ post.title }}</a><br>
+    <a href="{{ post.short_author }}/{{ post.short_title }}">{{ post.title }}</a><br>
   {% endfor %}
 </ul>

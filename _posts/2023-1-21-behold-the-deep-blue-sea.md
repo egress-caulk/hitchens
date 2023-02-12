@@ -5,6 +5,7 @@ author: Cao Cao 曹操
 dates: 155 - 220
 categories: poets cao-cao
 permalink: /:categories/:title
+short_author: cao-cao
 short_title: behold-the-deep-blue-sea
 excerpt_separator: <!--more-->
 ---
