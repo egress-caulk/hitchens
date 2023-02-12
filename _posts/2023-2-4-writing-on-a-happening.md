@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Writing On A Happening"
-short_title: :title
 author: Wang Wei 
 chinesename: 王維
 dates: 699 - 759
