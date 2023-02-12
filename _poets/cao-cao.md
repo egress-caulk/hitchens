@@ -7,4 +7,9 @@ Cao Cao 曹操 (155 - 220) is credited by some as inventing the genre of *shansh
 
 ##### Poems
 
->[Behold The Deep Blue Sea](/poets/cao-cao/behold-the-deep-blue-sea)
+<ul>
+  {% assign filtered_posts = site.posts | where: 'author', page.short_name %}
+  {% for post in filtered_posts %}
+    <a href="{{ post.short_title }}">{{ post.title }}</a><br>
+  {% endfor %}
+</ul>

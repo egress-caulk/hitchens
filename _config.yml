@@ -62,6 +62,7 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-relative-links
 
 paginate: 3
 paginate_path: "/page/:num/"
@@ -70,4 +71,8 @@ show_excerpts: true
 excerpt_length: 0
 hide_search: true
 hide_credits: true
+
+relative_links:
+  enabled:     true
+  collections: true
 

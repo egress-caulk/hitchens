@@ -7,4 +7,9 @@ During the Song dynasty (960 - 1279) it was fashionable to think of Meng Haoran 
 
 ##### Poems
 
->[Spring Dawn](/poets/meng-haoran/spring-dawn)
+<ul>
+  {% assign filtered_posts = site.posts | where: 'author', page.short_name %}
+  {% for post in filtered_posts %}
+    <a href="{{ post.short_title }}">{{ post.title }}</a><br>
+  {% endfor %}
+</ul>
