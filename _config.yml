@@ -26,6 +26,7 @@ feed_icon: /assets/images/icon-512.jpeg
 collections:
   poets:
     output: true
+    permalink: /:collection/:short_name
 
 defaults:
   - scope:
