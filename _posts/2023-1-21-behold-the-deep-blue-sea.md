@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "Behold The Deep Blue Sea"
-author: Cao Cao 曹操 (155 - 220)
+author: Cao Cao 
+chinesename: 曹操
+dates: 155 - 220
 categories: poets cao-cao
 excerpt_separator: <!--more-->
 ---

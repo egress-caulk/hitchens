@@ -18,7 +18,7 @@ layout: default
 
   <div class="post-meta">
     {% if page.author %}
-      <div itemprop="author">{{ page.author }}</div>
+      <div itemprop="author"><a href="/{{ page.categories | first }}/{{ page.categories | last }}">{{ page.author }}</a> {{ page.chinesename }} ({{ page.dates }})</div>
     {% endif %}
   </div>
 

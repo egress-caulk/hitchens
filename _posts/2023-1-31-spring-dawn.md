@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "Spring Dawn"
-author: Meng Haoran 孟浩然 (689 - 740)
+author: Meng Haoran 
+chinesename: 孟浩然
+dates: 689 - 740
 categories: poets meng-haoran
 excerpt_separator: <!--more-->
 ---

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "Writing On A Happening"
-author: Wang Wei 王維 (699 - 759)
+author: Wang Wei 
+chinesename: 王維
+dates: 699 - 759
 categories: poets wang-wei
 excerpt_separator: <!--more-->
 ---
