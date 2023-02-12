@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /thank-you.html
+permalink: /thank-you
 title: Subscription successful
 ---
 <center>
