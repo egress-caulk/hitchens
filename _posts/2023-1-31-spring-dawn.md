@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Spring Dawn"
-author: Meng Haoran 
-chinesename: 孟浩然
+author: Meng Haoran 孟浩然
 dates: 689 - 740
 categories: poets meng-haoran
 permalink: /:categories/:title

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Contemplating A Game Of Weiqi"
-author: Su Shi 
-chinesename: 蘇軾
+author: Su Shi 蘇軾
 dates: 1037 - 1101
 categories: poets su-shi
 permalink: /:categories/:title
