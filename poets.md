@@ -1,8 +1,6 @@
 ---
-layout: post
+layout: poet
 title: Poets
-permalink: /:basename
-category: poets
 ---
 All the poets whose poetry can be found on this website, arranged by dynasty.
 

@@ -1,10 +1,13 @@
 ---
 layout: post
 title: "Writing On A Happening"
+short_title: :title
 author: Wang Wei 
 chinesename: 王維
 dates: 699 - 759
 categories: poets wang-wei
+permalink: /:categories/:title
+short_title: writing-on-a-happening
 excerpt_separator: <!--more-->
 ---
 The fifth translation in this endeavour, and our second poem by Wang Wei about the colour of moss<!--more-->. I discovered this poem a few weeks ago when reading through an anthology of Wang Wei's works, and it has been lodged in the back of my mind ever since. It is a vivid and visual delight.
