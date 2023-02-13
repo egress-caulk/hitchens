@@ -2,7 +2,7 @@
 title: "Deer Place"
 author: Wang Wei 王維
 dates: 699 - 759
-categories: wang-wei
+categories: wang-wei-王維
 ---
 
 Let's start from the beginning shall we? Not from the beginning of Chinese recorded history, rather my own experience with classical Chinese poetry<!--more-->. This was the first Chinese poem to really capture my attention. Much of Wang Wei's writing is imbued with Buddhist themes. This poem is one of his most famous, and therefore one of his most translated. However, almost all translations focus only on the first stanza. The elusive second stanza hasn't quite made it into popular culture, but I feel it adds much more meaning. 
