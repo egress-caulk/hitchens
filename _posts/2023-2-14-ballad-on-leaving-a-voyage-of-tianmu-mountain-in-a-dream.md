@@ -4,7 +4,7 @@ author: Li Bai 李白
 dates: 701 - 762
 categories: li-bai
 ---
-In this poem, the great master Li Bai reflects on an unforgettable dream he once had<!--more-->, and then pauses to reflect on the nature of happiness. This poem is widely considered to be one of his masterpieces.
+The great master Li Bai reflects on an unforgettable dream he once had<!--more-->, and then pauses to reflect on the nature of happiness. This poem is widely considered to be one of his masterpieces.
   
 <br>
   
@@ -85,12 +85,14 @@ In this poem, the great master Li Bai reflects on an unforgettable dream he once
 >Why should I serve the rich and powerful, and not gain an open heart? <br><br>
 
 ##### Translation notes
-Not all Li Bai poems are this long or complicated. I tried my best to translate this poem in a way that was accessible to readers who might not be familiar with the many layers of references that exist in the original. For example, in the first line, Yingzhou 瀛洲 is not referred to as 'the fabled abode of immortals' in the original. I added that detail in, but there were many references I couldn't quite squeeze in: 
+Not all Li Bai poems are this long or complicated. I tried my best to translate this poem in a way that was accessible to readers who might not be familiar with the many layers of references that exist in the original. For example, in the first line, Yingzhou 瀛洲 is not referred to as 'the fabled abode of immortals' in the original. I added that detail in. There were many references I couldn't quite squeeze in: 
   
 - The Five Marchmounts 五嶽 are the Five Great Mountains in China that everyone from great emperors to Confucian and Daoist pilgrims would journey to. They were first grouped in the Warring States period (475 BC – 221 BC). 
 - Tiantai Mountain 天台 is obviously not 12 miles tall. Li Bai knew this and exaggerates its height using archaic units of measurement (*si wan ba qian zhang* 四萬八千丈, 48,000 *zhang* - roughly equivalent to 14,400 metres). I used the word 'dozen' to get across the different Chinese numbering system, as well as the unit of measurement.
 - 'Poet Xie' is written Master Xie 謝公 in the original, and refers to Xie Lingyun 謝靈運 (385 - 433) who was an early Buddhist landscape poet. His family estate was located on a hill next to the lake romanticised in this poem.
-- The Heavenly Rooster 天雞 refers to a Chinese legend about a mythical bird that lives in the land of immortals, whose crowing awakens the whole world
-- The idea of an immortal cave 洞天 is a reference to the Daoist concept of 'grotto-heavens', a grotto located at a sacred mountain site. These were organised systematically in the Tang dynasty, around the time Li Bai wrote this poem. Traditionally, it was believed that a grotto-heaven would have its own sun and moon within it and be home to immortals, which is why I use the word 'inside' when describing the location of the sun and moon.
+- The Heavenly Rooster 天雞 refers to a Chinese legend about a mythical bird that lives in the land of immortals, whose crowing awakens the whole world.
+- The idea of an immortal cave 洞天 is a reference to the Daoist concept of 'grotto-heavens', real-life grottos located at sacred mountain sites. These were catalogued systematically in the Tang dynasty, around the time Li Bai wrote this poem. Traditionally, it was believed that a grotto-heaven would have its own sun and moon within it and be home to immortals, which is why I use the word 'inside' when describing the location of the sun and moon in the poem.
   
-As for the rest of this poem, translations vary wildly. Victor H. Mair, an American sinologist, spoke once of the need to attempt to translate each poet with their own voice, rather than the voice of the translator. My own take on many other translations of this poem is that they are generally too over the top. It is tempting to equate the radical styles and trippy images in this poem with someone like Coleridge or Byron, and give Li Bai the voice of a Victorian Romantic. Instead, I have tried to exercise some restraint by placing the dream in the past tense so that it is being carefully recounted rather than experienced. In doing so, I have attempted to allow the wonderful juxtaposition of the original images and ideas to reveal themselves in the reader's mind in the same way they may have originally appeared to Li Bai over 1,200 years ago.
+Translations of this poem vary wildly. Victor H. Mair, an American sinologist, wrote of the importance of translating each poet by exploring the poet's own voice, rather than the voice of the translator. My own take is that many translations are over the top. It is tempting to equate the poem's radical styles and trippy images with someone like Coleridge or Byron, and give Li Bai the voice of a Victorian Romantic. 
+
+Instead, I have tried to exercise restraint by placing the dream in the past tense so that it is being carefully recounted rather than experienced. In doing so, I have attempted to allow the wonderful juxtaposition of the original images and ideas to reveal themselves in the reader's mind in the same way they may have originally appeared to Li Bai over 1,200 years ago.
