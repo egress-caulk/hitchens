@@ -10,6 +10,8 @@ Cao Cao 曹操 (155 - 220) is credited by some as inventing the genre of *shansh
 <ul>
   {% assign filtered_posts = site.posts | where: 'author', page.title %}
   {% for post in filtered_posts %}
-    <a href="{{ post.short_author }}/{{ post.short_title }}">{{ post.title }}</a><br>
+       <ul class="post-list">
+             {% include poet-list-item.html %}
+       </ul>
   {% endfor %}
 </ul>

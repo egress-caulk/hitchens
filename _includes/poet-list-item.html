@@ -1,0 +1,10 @@
+<li>
+  <a href="{{ post.url | absolute_url }}">   
+            {{ post.title }}
+  </a>
+  <br>
+<span class="post-link__excerpt">
+        {% include post-excerpt.html %}
+</span>
+  <br><br>
+</li>

@@ -9,6 +9,8 @@ Wang Wei 王維 (699 - 759) was one of the first Chinese poets I read. The Tang 
 <ul>
   {% assign filtered_posts = site.posts | where: 'author', page.title %}
   {% for post in filtered_posts %}
-    <a href="{{ post.short_author }}/{{ post.short_title }}">{{ post.title }}</a><br>
+       <ul class="post-list">
+             {% include poet-list-item.html %}
+       </ul>
   {% endfor %}
 </ul>

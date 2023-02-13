@@ -6,7 +6,6 @@ dates: 689 - 740
 categories: poets meng-haoran
 permalink: /:categories/:title
 short_author: meng-haoran
-short_title: spring-dawn
 excerpt_separator: <!--more-->
 ---
 This poem by Meng Haoran takes place after a sleepless night, and may have once been the most famous poem in China<!--more-->. It was one of the first poems that generations of educated Chinese children would memorise owing to its place on the first page of the anthology *Qianjia Shi* 千家詩 (A Thousand Family Poems). Evidenced by many of his other poems, Meng Haoran liked to drink. Rather than reading this as a children's poem, I like to imagine him with a hangover.

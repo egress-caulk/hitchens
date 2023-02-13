@@ -10,6 +10,8 @@ Many of the Tang dynasty (618 - 907) poets featured on this website were low-lev
 <ul>
   {% assign filtered_posts = site.posts | where: 'author', page.title %}
   {% for post in filtered_posts %}
-    <a href="{{ post.short_author }}/{{ post.short_title }}">{{ post.title }}</a><br>
+       <ul class="post-list">
+             {% include poet-list-item.html %}
+       </ul>
   {% endfor %}
 </ul>
