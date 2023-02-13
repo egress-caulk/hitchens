@@ -33,11 +33,15 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      permalink: "/:categories/:title"
+      categories: poets
+      excerpt_separator: <!--more-->
   - scope:
       path: ""
       type: "poets"
     values:
       layout: "poet"
+      permalink: "/:collection/:title"
   - scope:
       path: ""
     values:
