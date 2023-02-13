@@ -5,7 +5,6 @@ author: Wang Wei 王維
 dates: 699 - 759
 categories: poets wang-wei
 permalink: /:categories/:title
-short_author: wang-wei
 excerpt_separator: <!--more-->
 ---
 
