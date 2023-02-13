@@ -46,7 +46,8 @@ The great master Li Bai reflects on an unforgettable dream he once had<!--more--
 >Sometimes seen through shifting light in rose-pink clouds <br>
 >Tianmu touches the sky reaching across the heavens <br>
 >Its grandeur surpasses the Five Marchmounts obscuring Chicheng Peak <br>
->Against this even Tiantai Mountain, a dozen miles in height, would crumble south and east, as if pushed over<br><br>
+>Against this even Tiantai Mountain, a dozen miles in height<br>
+>Would crumble south and east, as if pushed over<br><br>
 >Longing for Tianmu one night I dreamt of the South <br>
 >I flew between Jinghu Lake and the moon <br>
 >The lake's moonlight illuminated my reflection<br>
@@ -85,11 +86,11 @@ The great master Li Bai reflects on an unforgettable dream he once had<!--more--
 >Why should I serve the rich and powerful, and not gain an open heart? <br><br>
 
 ##### Translation notes
-Not all Li Bai poems are this long or complicated. I tried my best to translate this poem in a way that was accessible to readers who might not be familiar with the many layers of references that exist in the original. For example, in the first line, Yingzhou 瀛洲 is not referred to as 'the fabled abode of immortals' in the original. I added that detail in. There were many references I couldn't quite squeeze in: 
+Not all Li Bai poems are this long or complicated. I tried my best to translate this poem in a way that was accessible to readers who might not be familiar with the many references within the poem. For example, in the first line, Yingzhou 瀛洲 is not referred to as 'the fabled abode of immortals' in the original. I added that detail in, but I couldn't find any extra space for these: 
   
-- The Five Marchmounts 五嶽 are the Five Great Mountains in China that everyone from great emperors to Confucian and Daoist pilgrims would journey to. They were first grouped in the Warring States period (475 BC – 221 BC). 
-- Tiantai Mountain 天台 is obviously not 12 miles tall. Li Bai knew this and exaggerates its height using archaic units of measurement (*si wan ba qian zhang* 四萬八千丈, 48,000 *zhang* - roughly equivalent to 14,400 metres). I used the word 'dozen' to get across the different Chinese numbering system, as well as the unit of measurement.
-- 'Poet Xie' is written Master Xie 謝公 in the original, and refers to Xie Lingyun 謝靈運 (385 - 433) who was an early Buddhist landscape poet. His family estate was located on a hill next to the lake romanticised in this poem.
+- The Five Marchmounts 五嶽 are the Five Great Mountains in China that everyone from great emperors to Confucian and Daoist pilgrims would journey to. They were first recognised in the Warring States period (475 BC – 221 BC). 
+- Tiantai Mountain 天台 is obviously not 12 miles tall. Li Bai knew this and exaggerates its height using archaic units of measurement (*si wan ba qian zhang* 四萬八千丈, 48,000 *zhang* - roughly equivalent to 14,400 metres). I used the word 'dozen' to get across the different Chinese numbering system and an imperial unit of measurement.
+- 'Poet Xie' is written Master Xie 謝公 in the original and refers to Xie Lingyun 謝靈運 (385 - 433), an early Buddhist landscape poet. His family estate was located on a hill next to the lake romanticised in this poem.
 - The Heavenly Rooster 天雞 refers to a Chinese legend about a mythical bird that lives in the land of immortals, whose crowing awakens the whole world.
 - The idea of an immortal cave 洞天 is a reference to the Daoist concept of 'grotto-heavens', real-life grottos located at sacred mountain sites. These were catalogued systematically in the Tang dynasty, around the time Li Bai wrote this poem. Traditionally, it was believed that a grotto-heaven would have its own sun and moon within it and be home to immortals, which is why I use the word 'inside' when describing the location of the sun and moon in the poem.
   
