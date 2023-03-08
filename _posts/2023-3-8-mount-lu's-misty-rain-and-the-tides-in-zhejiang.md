@@ -11,10 +11,10 @@ Su Shi reflects on going on a journey he always wanted to take. Or is he writing
 >**廬山煙雨浙江潮**
 
   
->庐山烟雨浙江潮，<br>
+>廬山煙雨浙江潮，<br>
 >未至千般恨不消。<br>
->到得还来别无事，<br>
->庐山烟雨浙江潮。<br><br>
+>到得還來別無事，<br>
+>廬山煙雨浙江潮。<br><br>
 
 >**Mount Lu’s Misty Rain And The Tides In Zhejiang**
 <br>      
