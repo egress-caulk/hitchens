@@ -4,7 +4,7 @@ author: Su Shi 蘇軾
 dates: 1037 - 1101
 categories: su-shi-蘇軾
 ---
-Su Shi reflects on going on a journey he always wanted to take. Or is he writing about the essence of Buddhist enlightenment?<!--more-->
+Su Shi goes on a journey he always wanted to take.<!--more--> Or is he writing about the essence of Buddhist enlightenment?
   
 <br>
   
