@@ -39,4 +39,12 @@ layout: default
   {% endif %}
 
 
+{% if page.layout == "post" %}
+<p class="post-title divided p-name"></p>
+<br><br>
+<p> <span style="float:left;"><a onclick="window.history.back()"> < Back </a> </span> 
+<span style="float:right;"> <a style="text-decoration:none" href="/read"> Next poem > </a> </span> </p> <br>
+{% endif %}
+
 </article>
+
