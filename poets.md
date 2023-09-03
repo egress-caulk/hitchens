@@ -7,6 +7,8 @@ All the poets whose poetry can be found on this website, arranged by dynasty.
 
 #### Han Dynasty
 [Cao Cao 曹操](/poets/cao-cao-曹操) (155 - 220)
+#### Six Dynasties
+[Xie Lingyun 謝靈運](/poets/xie-lingyun-謝靈運) (385 - 483)
 #### Tang Dynasty
 [Li Bai 李白](/poets/li-bai-李白) (701 - 762)
 

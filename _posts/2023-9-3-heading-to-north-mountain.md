@@ -56,7 +56,7 @@ However, this poem is nearly two thousand years old. It was written before any o
 
 At the time, this poem would have been read as a *youlan* 遊覽 poem: *you* 遊 means to roam around, and *lan* 覽 means to look broadly at what surrounds. This breadth implies not just appreciating the natural world, but the nature of human existence.
 
-This reading hinges on the characters in line six: *xie* 解 and *sheng* 升, which I have translated as "release" and "pushing upwards". These characters are representations of *hexagrams* in the *Book of Changes* (*Yi Jing* 易经), and would have been recognised as such, which is why I have italicised the text in the translation. 
+This reading hinges on the characters in line six: *xie* 解 and *sheng* 升, which I have translated as "release" and "pushing upwards". These characters are representations of *hexagrams* in the *Book of Changes* (*Yi Jing* 易經), and would have been recognised as such, which is why I have italicised the text in the translation. 
 
 The Book of Changes is one of the five ancient Chinese classics, and was originally written as a divination manual in the Western Zhou period (1000-750 BC). The book offers wisdom and guidance through understanding the concepts of harmony and by interpreting differing patterns or hexagrams that can be generated through the tossing of coins or stalks. The divinations provide insights into the natural patterns of change and are used for ethical decision-making, prediction, and understanding the complexities of life. 
 
