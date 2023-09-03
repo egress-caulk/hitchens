@@ -10,3 +10,4 @@ gem 'jekyll-seo-tag'
 gem 'jekyll-relative-links'
 gem "jekyll-sass-converter", "~> 2.0"
 gem 'jekyll-paginate'
+gem 'jekyll-target-blank', '~> 2.0', '>= 2.0.2'

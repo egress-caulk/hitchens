@@ -67,6 +67,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-relative-links
+  - jekyll-target-blank
 
 paginate: 3
 paginate_path: "/page/:num"
