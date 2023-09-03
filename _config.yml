@@ -74,7 +74,6 @@ paginate_path: "/page/:num"
 show_excerpts: true
 excerpt_length: 0
 hide_search: true
-hide_credits: true
 
 relative_links:
   enabled:     true
