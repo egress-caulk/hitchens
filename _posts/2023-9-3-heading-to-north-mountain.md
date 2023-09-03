@@ -1,5 +1,5 @@
 ---
-title: "Heading from South Mountain to North Mountain..."
+title: "Heading from South Mountain to North Mountain"
 author: Xie Lingyun 謝靈運
 dates: 385 - 433
 categories: xie-lingyun-謝靈運
