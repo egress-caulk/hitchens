@@ -1,25 +1,10 @@
 ---
-layout: none
+layout: page
+title: Finding A Poem
 ---
 
 <html>
 <head>
-{% if site.description %}<meta name="description" content="{{ site.description }}">{% endif %}  
-
-    <link rel="stylesheet" href="{{ '/assets/css/main.css' | absolute_url }}?{{ site.time | date: '%s%N' }}">
-
-    <link rel="apple-touch-icon" href="{{ site.icon }}">
-
-    {%- if jekyll.environment == 'production' and site.google_analytics -%}
-      {%- include google-analytics.html -%}
-    {%- endif -%}
-{% seo %}
-
-{% if site.data.menu %}
-  {% include menu.html %}
-{% else %}
-  {% include back-link.html %}
-{% endif %}
 
 	<script>
 		var posts = [];
@@ -34,26 +19,12 @@ layout: none
 </head>
 
 <body>
-<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting" id="main" role="article" aria-label="Content"><center>
+<center>
 	<script>
 		document.write("<a href=\"");
 		document.write(posts[Math.floor(Math.random() * posts.length)]);
-		document.write("\">Finding a poem...</a>");
+		document.write("\"></a>");
 	</script></center>
-
-</article>
-
-    {% unless site.hide_search %}
-      {% include search.html %}
-    {% endunless %}
-
-    {% unless site.hide_credits %}
-      <aside class="site-credits">
-        <p>
-          <small><a href="/newsletter">Receive occasional poetry updates</a>
-        </p>
-      </aside>
-    {% endunless %}
 
 </body>
 </html>

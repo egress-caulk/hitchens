@@ -62,7 +62,7 @@ The Book of Changes is one of the five ancient Chinese classics, and was origina
 
 The hexagrams for *xie* and *sheng* are given below:
 
-<p style="font-size:117px;" class="text-center" >䷧   ䷭</p>
+<p style="font-size:117px;">䷧䷭</p>
 
 Each line in a hexagram is called a *yao* 爻, and each line can either be broken or unbroken. A broken line represents *yin* 阴, associated with the moon, earth, darkness, and coldness. An unbroken line represents *yang* 阳, associated with the sun, heaven, light and warmth. This is one of the earliest origins of the Chinese principles of *yinyang*, or balance and harmony in the universe. 
 
