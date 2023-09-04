@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+{% if site.data.menu %}
+  {% include menu.html %}
+{% else %}
+  {% include back-link.html %}
+{% endif %}
+
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting" id="main" role="article" aria-label="Content">
+    {{ content }}
+  <div class="post-content e-content" itemprop="articleBody">
+
+  </div>
+
+
+  {% if page.layout == "post" %}
+  <div class="post-meta">
+    <time class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>
+  </div>
+  {% else %} <br><br>
+  {% endif %}
+
+  {% if site.disqus.shortname %}
+    {% include disqus-comments.html %}
+  {% endif %}
+
+
+{% if page.layout == "post" %}
+<p class="post-title divided p-name"></p>
+<br><br>
+<p> <span style="float:left;"><a onclick="window.history.back()"> < Back </a> </span> 
+<span style="float:right;"> <a style="text-decoration:none" href="/read"> One more > </a> </span> </p> <br>
+{% endif %}
+
+</article>
+

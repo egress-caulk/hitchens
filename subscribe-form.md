@@ -1,11 +1,10 @@
 ---
-layout: page
-title: Newsletter
+layout: newsletter
 permalink: /newsletter
 ---
-
+<br><br>
 <center>
-Receive my occasional poetry updates by email.
+Receive occasional poetry updates by email.
 <br><br>
 <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
     <div class="mc-field-group">
@@ -20,7 +19,7 @@ Receive my occasional poetry updates by email.
         margin-top: 0.25em;
         margin-bottom: 0.5em;
         padding: 0.75em;
-        font-family: monospace, sans-serif;
+        font-family: EB Garamond;
         border:1px solid #444;
         outline-color: #2e83e6;
         border-radius: 3px;
@@ -28,8 +27,8 @@ Receive my occasional poetry updates by email.
     }
     
     .wj-contact-form input[type="submit"] {
-        background-color: #2e83e6;
-        border: 1px solid #2e83e6;;
+        background-color: #010101;
+        border: 1px solid #050505;;
         color: #eee;
     }
 </style> 

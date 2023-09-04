@@ -18,6 +18,13 @@
       {%- include google-analytics.html -%}
     {%- endif -%}
 {% seo %}
+
+<style>
+ #note {
+        visibility: hidden;
+   }
+    </style>
+
   </head>
   <body>
 
@@ -28,12 +35,42 @@
     {% endunless %}
 
     {% unless site.hide_credits %}
+     {% if page.layout == "read" %}
+<aside class="site-credits" id="note">
+          <small><p><script>
+		document.write("<a href=\"");
+		document.write(posts[Math.floor(Math.random() * posts.length)]);
+		document.write("\">Poem found. Click here to continue ></a>");
+	</script></p>
+      </aside>
+  {% endif %}
+
+     {% if page.layout == "newsletter" %}
+<br>
+     {% elsif page.permalink == "/thank-you" %}
+<br>
+     {% elsif page.layout == "home" %}
+<br>
+     {% elsif page.layout != "read" %}
       <aside class="site-credits">
         <p>
           <small><a href="/newsletter">Receive occasional poetry updates</a>
         </p>
       </aside>
+   {% endif %}
     {% endunless %}
+
+
+<script>
+
+const el = document.getElementById('note');
+
+setTimeout(() => {
+  el.style.visibility = 'visible';
+
+}, 3000);
+
+</script>
 
   </body>
 </html>
