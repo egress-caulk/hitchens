@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Chinese Poetry
 email: 
-description: Translated by Steve Lipscombe.
+description: Translated by Steve Lipscombe
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://stevelipscom.be"
 icon: /favicon.ico
