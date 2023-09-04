@@ -62,8 +62,8 @@ The Book of Changes is one of the five ancient Chinese classics, and was origina
 
 The hexagrams for *xie* and *sheng* are given below:
 
-<p style="font-size:117px;">䷧䷭</p>
-
+<h2>䷧䷭
+<p>
 Each line in a hexagram is called a *yao* 爻, and each line can either be broken or unbroken. A broken line represents *yin* 阴, associated with the moon, earth, darkness, and coldness. An unbroken line represents *yang* 阳, associated with the sun, heaven, light and warmth. This is one of the earliest origins of the Chinese principles of *yinyang*, or balance and harmony in the universe. 
 
 I provide this context in order to convey the depth of meaning behind these ideas at the time. In this poem, he alludes to these hexagrams that represent a sense of universal and divine meaning. The *release* can be read in response to the rocks cutting across the stream of water in the previous line, and yielding vivid green bamboo growing in the following line. Similarly, the *pushing upwards* mirrors the idea of footsteps continuing despite there being no trail in the previous line, and the growth of all things lush and abundant in the following line. 
