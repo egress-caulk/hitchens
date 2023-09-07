@@ -24,9 +24,10 @@ The fifth translation in this endeavour, and our second poem by Wang Wei about t
 >deep in courtyard daylight yet <br>
 >too lazy to open the gate <br>
 >I sat watching the green moss' greenness <br>
->as if it were climbing my robe <br><br>
+>as if it were climbing my robe <br><br><br>
 
-##### Translation notes
+<p class="post-title divided p-name"></p>    
+### Translation notes
 
 The title of this poem is important, because it implies an event (or series of events) so notable had occurred that Wang Wei had to record it in detail.
   

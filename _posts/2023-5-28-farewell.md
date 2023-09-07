@@ -21,10 +21,10 @@ Wang Wei bumps into an old friend and offers him wine.<!--more--> But his friend
 >You said you were unfulfilled, <br> 
 >headed into seclusion at the southern mountains. <br>
 >Then you left - no more questions, <br> 
->when the white clouds were never-ending. <br><br>
+>when the white clouds were never-ending. <br><br><br>
 
-    
-##### Translation notes
+<p class="post-title divided p-name"></p>    
+### Translation notes
 
 Let's start with the title. Many translators go for 'farewell'. I feel like 'farewell' is a boring title that misses the point -  there's something more here that justifies this being called a send-off.<br>
 

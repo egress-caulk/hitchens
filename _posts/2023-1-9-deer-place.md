@@ -53,11 +53,10 @@ Let's start from the beginning shall we? Not from the beginning of Chinese recor
   
   I don’t know the ways of the deep forest
   
-  only the tracks left by the water deer
-  
-  <br><br>
+  only the tracks left by the water deer <br><br><br>
 
-##### Translation Notes
+<p class="post-title divided p-name"></p>    
+### Translation notes
 
 The first characters presented to us pose some fun challenges. First, the title, *Luzhai* 鹿柴, is understood to be the name of a place close to where the poet lived. The second character is often translated as enclosure, or the title is often translated as *Deer Park* but I have chosen to convey the meaning of a place where deer are.
   

@@ -23,9 +23,10 @@ This poem by Meng Haoran takes place after a sleepless night, and may have once 
 >Springtime, half-asleep, unaware of daybreak, <br>
 >All around I hear birdsong. <br>
 >Night brought noise, wind and rain, <br>
->Blossoms fell, who knows how many? <br><br>
+>Blossoms fell, who knows how many? <br><br><br>
 
-##### Translation notes
+<p class="post-title divided p-name"></p>    
+### Translation notes
 
 Although the characters are quite easy to understand in this poem, a translation isn't quite so straightforward.  It's a challenge to translate each character in an order that is faithful to the original. Imagining the poet half-awake and articulating one thought after another helped me retain as much of the original structure as possible. I have attempted to create this effect by adding in punctuation to ensure that, similar to Chinese characters, each thought is self-contained. The only major deviation from the original word order is *sheng* 聲 ('noise'), which has moved from its original position at the end of the third line. <br>
 

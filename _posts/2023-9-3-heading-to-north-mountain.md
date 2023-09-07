@@ -45,10 +45,10 @@ This poem sees Xie Lingyun journeying deep into the mountains and meaning.<!--mo
 > I don't regret travelling far away from people,<br>
 > I only rue that this cannot be shared.<br>
 > Lonesome roaming does not bring me to sigh, <br>
-> When the well-regarded is disregarded, who will pass on the truth? <br><br>
+> When the well-regarded is disregarded, who will pass on the truth? <br><br><br>
 
-    
-##### Translation notes
+<p class="post-title divided p-name"></p>    
+### Translation notes
 
 We might be tempted to read this poem, one of the first surviving landscape poems from Chinese history, through a lens that originates the mountains and rivers (*shanshui* 山水) of Wang Wei's poems and that expresses the same fundamental essence as Wordsworth's host of [golden daffodils](https://www.poetryfoundation.org/poems/45521/i-wandered-lonely-as-a-cloud).
 

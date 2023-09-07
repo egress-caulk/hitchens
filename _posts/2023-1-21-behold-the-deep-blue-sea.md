@@ -24,9 +24,10 @@ categories: cao-cao-曹操
 >Autumn winds rustle and howl, vast waves gush forth. <br>
 >The path of the sun and moon, as if emerging from the middle of it; <br>
 >Stars shine and sparkle resplendent, as if born from within it. <br>
->Such a great fortune to behold! Let these words become a poem of remembrance. <br>
+>Such a great fortune to behold! Let these words become a poem of remembrance. <br><br><br>
 
-##### Translation notes
+<p class="post-title divided p-name"></p>    
+### Translation notes
 
 Another poem with a title that immediately poses an imponderable question to a Western reader: what is the colour of the sea? *Cang* 滄 is really the colour of the sea, somewhere between grey and blue. Here, I have chosen 'deep blue' to add depth to the colour, and the sea itself. <br>
 

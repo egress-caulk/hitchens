@@ -21,9 +21,9 @@ Su Shi goes on a journey he always wanted to take.<!--more--> Or is he writing a
 >Mount Lu’s misty rain and the tides in Zhejiang, <br>
 >Before getting there, my countless regrets wouldn’t relent. <br>
 >I went, I came back, it was nothing special, <br>
->Mount Lu’s misty rain and the tides in Zhejiang. <br>
-    
-##### Translation notes
+>Mount Lu’s misty rain and the tides in Zhejiang. <br><br><br>    
+<p class="post-title divided p-name"></p>    
+### Translation notes
 
 Sometimes the shortest poems are the most difficult to translate. This one was the most challenging poem to date. Let's take it line by line. The title, first line, and last line are the same. At the beginning of the poem, you might be tempted to read the first line in the grandest of voices: a vision of a beautiful, picturesque sight that is almost unattainable. Mount Lu was a traditional pilgrimage destination, and the 'tide' referred to is that of the Qiantang 钱塘 River, which runs through the mountains and into the sea. It was originally called the Zhe River (*zhe jiang* 浙江), which is where the modern name of Zhejiang province comes from. So far, so good. <br>
 

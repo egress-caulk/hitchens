@@ -83,9 +83,11 @@ The great master Li Bai reflects on an unforgettable dream he once had<!--more--
 >I bid you farewell and leave, unsure of when I'll return <br>
 >I'll leave the white deer amid the green cliffs <br>
 >When needed, I shall ride them to search out the famous mountain <br>
->Why should I serve the rich and powerful, and not gain an open heart? <br><br>
+>Why should I serve the rich and powerful, and not gain an open heart? <br><br><br>
 
-##### Translation notes
+<p class="post-title divided p-name"></p>    
+### Translation notes
+
 Not all Li Bai poems are this long or complicated. I tried my best to translate this poem in a way that was accessible to readers who might not be familiar with the many references within the poem. For example, in the first line, Yingzhou 瀛洲 is not referred to as 'the fabled abode of immortals' in the original. I added that detail in, but I couldn't find any extra space for these: 
   
 - The Five Marchmounts 五嶽 are the Five Great Mountains in China that everyone from great emperors to Confucian and Daoist pilgrims would journey to. They were first recognised in the Warring States period (475 BC – 221 BC). 
