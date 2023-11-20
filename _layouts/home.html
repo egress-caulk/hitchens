@@ -16,17 +16,18 @@ layout: default
     {% endif %}
   </header>
 
+
 <main class="home" id="main" role="main" aria-label="Content">
 
 
-
-  <h1 class="content-title divided">
+  <a id="list"><h1 class="content-title divided">
     {% if site.paginate and site.paginate_path and paginator.page > 1 %}
 <a href="/read">Read a poem</a>, or browse <br><br>
     {% else %}
 <a href="/read">Read a poem</a>, or browse <br><br>
     {% endif %}
-  </h1>
+  </h1></a>
+
 
   {% if site.paginate and site.paginate_path %}
     
@@ -46,7 +47,7 @@ layout: default
         {% endif %}
         <span class="pagination-number">{{ paginator.page }} of {{ paginator.total_pages }}</span>
         {% if paginator.next_page %}
-          <a href="{{ paginator.next_page_path | prepend: site.baseurl  }}" class="pagination-next btn">Older&nbsp;&rang;</a>
+          <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="pagination-next btn">Older&nbsp;&rang;</a>
         {% else %}
           <span>&nbsp;</span>
         {% endif %}
@@ -64,5 +65,4 @@ layout: default
   
   {% endif %}
     
-
 </main>
