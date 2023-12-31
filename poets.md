@@ -10,6 +10,8 @@ All the poets whose poetry can be found on this website, arranged by dynasty.
 #### Six Dynasties
 [Xie Lingyun 謝靈運](/poets/xie-lingyun-謝靈運) (385 - 483)
 #### Tang Dynasty
+[Du Fu 杜甫](/poets/du-fu-杜甫) (712 – 770)
+
 [Li Bai 李白](/poets/li-bai-李白) (701 - 762)
 
 [Meng Haoran 孟浩然](/poets/meng-haoran-孟浩然) (689 - 740)
