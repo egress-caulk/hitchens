@@ -25,7 +25,7 @@ Du Fu spends New Year’s Eve at the home of a younger relative who is rising hi
 > Bowls of peppered ale hold blessed blossoms <br>
 > High officials make noise among stabled horses <br>
 > Lines of torches disperse crows in the woods <br>
-> Tomorrow, my 40th year will pass <br>
+> Tomorrow, my fourtieth year will pass <br>
 > Rising upward in slanted evening light <br>
 > Who can continue to be this constrained? <br>
 > Dead drunkenness to the end of my days  <br><br><br>
