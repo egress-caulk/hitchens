@@ -2,7 +2,7 @@
 title: Seeing In New Year’s Eve at Du Wei’s Home
 author: Du Fu 杜甫
 dates: 712 - 770
-categories: xie-lingyun-謝靈運
+categories: du-fu-杜甫
 ---
 Du Fu spends New Year’s Eve at the home of a younger relative who is rising high in society.<!--more--> Unable to compete, he becomes resigned to a life of drinking.
   
