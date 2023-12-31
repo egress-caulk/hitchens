@@ -1,5 +1,5 @@
 ---
-title: Seeing In New Year’s Eve at Du Wei’s Home
+title: Seeing In The New Year At Du Wei’s Home
 author: Du Fu 杜甫
 dates: 712 - 770
 categories: du-fu-杜甫
@@ -19,7 +19,7 @@ Du Fu spends New Year’s Eve at the home of a younger relative who is rising hi
 >誰能更拘束，<br>
 >爛醉是生涯。<br><br>
 
->**Seeing In New Year’s Eve at Du Wei’s Home**
+>**Seeing In The New Year at Du Wei’s Home**
 <br>      
 > Seeing in New Year at my younger cousin’s home <br>
 > Bowls of peppered ale hold blessed blossoms <br>
