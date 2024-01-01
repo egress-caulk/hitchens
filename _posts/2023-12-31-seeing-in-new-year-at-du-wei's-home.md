@@ -1,5 +1,5 @@
 ---
-title: Seeing In The New Year At Du Wei’s Home
+title: Seeing In New Year At Du Wei’s Home
 author: Du Fu 杜甫
 dates: 712 - 770
 categories: du-fu-杜甫
@@ -19,15 +19,15 @@ Du Fu spends New Year’s Eve at the home of a younger relative who is rising hi
 >誰能更拘束，<br>
 >爛醉是生涯。<br><br>
 
->**Seeing In The New Year at Du Wei’s Home**
+>**Seeing In New Year At Du Wei’s Home**
 <br>      
 > Seeing in New Year at my younger cousin’s home <br>
 > Bowls of peppered ale hold blessed blossoms <br>
 > High officials make noise among stabled horses <br>
 > Lines of torches disperse crows in the woods <br>
-> Tomorrow, my fourtieth year will pass <br>
+> Tomorrow, my fortieth year will pass <br>
 > Rising upward in slanted evening light <br>
-> Who can continue to be this constrained? <br>
+> Who can go on being so tied up in knots? <br>
 > Dead drunkenness to the end of my days  <br><br><br>
 
 <p class="post-title divided p-name"></p>    
@@ -41,4 +41,6 @@ On the third line, the phrase ‘high officials’ is nowhere to be seen in the 
 
 [Apparently](https://web.prm.ox.ac.uk/rpr/index.php/object-biography-index/19-prmcollection/290-chinese-hairpins/index.html), hairpins have been important ornaments throughout Chinese history, and by the time of Tang dynasty China, they functioned almost like crowns to indicate rank and seniority. Here, then, we can infer that Du Fu’s cousin is of extremely high standing in society, with high officials riding to pay tribute to him on New Year’s Eve. This idea is continued in the following line, where the torches represent the attendants of these high officials, while also conveying the majesty of the event. (Records show that Du Wei 杜位 was Du Fu’s second cousin and married into a noble family.)
 
-The scene having been set, the final lines of the poem speak for themselves. For the first time in these translations, we see a poet turn to alcohol! Drinking is a common theme in Chinese poetry, particularly among the more reclusive types, and symbolises a poet's response to the social and political circumstances of their times or their personal sorrows.
+The scene having been set, the final lines of the poem speak for themselves. The seventh line I have translated quite liberally. A literal translation would be something like ‘*Who can more constrained tied up*’. *Jushu* 拘束 in modern Chinese can mean to be ill at ease with one’s surroundings, and I feel this is the sense implied here. The phrase ‘tied up in knots’ provides a colloquial solution while being faithful to the classical text. 
+
+For the first time in these translations, we see a poet turn to alcohol in the final line! I originally wanted to translate *lanzui* 爛醉 as ‘getting absolutely hammered’, but while this is an accurate translation it doesn’t sound poetic. Drinking is a common theme in Chinese poetry, particularly among the more reclusive types, and symbolises a poet's response to the social and political circumstances of their times or their personal sorrows.
