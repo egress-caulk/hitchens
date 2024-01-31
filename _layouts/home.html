@@ -47,7 +47,7 @@ layout: default
         {% endif %}
         <span class="pagination-number">{{ paginator.page }} of {{ paginator.total_pages }}</span>
         {% if paginator.next_page %}
-          <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="pagination-next btn">Older&nbsp;&rang;</a>
+          <a href="{{ paginator.next_page_path | append: "#footer" }}" class="pagination-next btn">Older&nbsp;&rang;</a>
         {% else %}
           <span>&nbsp;</span>
         {% endif %}
@@ -66,3 +66,5 @@ layout: default
   {% endif %}
     
 </main>
+
+<footer id="footer">
