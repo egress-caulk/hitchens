@@ -28,7 +28,6 @@ layout: default
     {% endif %}
   </h1></a>
 
-
   {% if site.paginate and site.paginate_path %}
     
     <ul class="post-list">
@@ -36,7 +35,7 @@ layout: default
         {% include post-list-item.html %}
       {% endfor %}
     </ul>
-
+<h6 id="poems"></h>
     {% if paginator.total_pages > 1 %}
 
       <div class="post-pagination">
@@ -47,7 +46,7 @@ layout: default
         {% endif %}
         <span class="pagination-number">{{ paginator.page }} of {{ paginator.total_pages }}</span>
         {% if paginator.next_page %}
-          <a href="{{ paginator.next_page_path | append: "#footer" }}" class="pagination-next btn">Older&nbsp;&rang;</a>
+          <a href="{{ paginator.next_page_path | append: "#poems" }}" class="pagination-next btn">Older&nbsp;&rang;</a>
         {% else %}
           <span>&nbsp;</span>
         {% endif %}
@@ -66,5 +65,3 @@ layout: default
   {% endif %}
     
 </main>
-
-<footer id="footer">

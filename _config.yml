@@ -70,7 +70,7 @@ plugins:
   - jekyll-target-blank
 
 paginate: 3
-paginate_path: "www.stevelipscom.be/page/:num"
+paginate_path: "/page/:num"
 
 show_excerpts: true
 excerpt_length: 0
