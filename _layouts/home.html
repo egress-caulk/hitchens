@@ -27,7 +27,7 @@ layout: default
 <a href="/read">Read a poem</a>, or browse <br><br>
     {% endif %}
   </h1></a>
-<h6 id="poems"></h>
+<a id="poems"></a>
   {% if site.paginate and site.paginate_path %}
     
     <ul class="post-list">
@@ -40,7 +40,7 @@ layout: default
 
       <div class="post-pagination">
        {% if paginator.previous_page %}
-          <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="pagination-previous btn">&lang;&nbsp;Newer</a>
+          <a href="{{ paginator.previous_page_path | append: "#poems" }}" class="pagination-previous btn">&lang;&nbsp;Newer</a>
         {% else %}
           <span>&nbsp;</span>
         {% endif %}
