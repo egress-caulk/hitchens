@@ -20,3 +20,7 @@ When I find a piece of poetry or prose to translate, I'll post my translations o
 <br>
 
 My main sources for this work are resources that were not available to me when I was a student. This includes the excellent *Student’s Dictionary of Classical and Medieval Chinese (3rd Edition)* compiled by Paul W. Kroll, Professor Emeritus of Chinese at the University of Colorado, Boulder. I use as a reference De Gruyter’s [Library of Chinese Humanities](https://www.degruyter.com/serial/loch-b/html#volumes), compiled by leading academics including Sarah M. Allen, Paul W. Kroll, Christopher M. B. Nugent, Stephen Owen, Anna M. Shields, Xiaofei Tian and Ding Xiang Warner.
+
+<br>
+
+I built this website myself using a customised version of the [Hitchens theme](https://github.com/patdryburgh/hitchens), powered by [Jekyll](https://jekyllrb.com).
