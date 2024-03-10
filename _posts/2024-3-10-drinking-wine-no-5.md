@@ -27,14 +27,14 @@ Tao Yuanming's beautiful meditation on the silent joy that can be found in the s
 > The mountain air at sunset is delightful,<br>
 > Birds in flight flock together, returning. <br>
 > In these things there is true meaning,<br>
-> I long to explain it but fail to think of the words.<br><br>
+> I long to explain it but fail to find the words.<br><br>
 
     
 ##### Translation notes
 
 This was one of the first Chinese poems I studied, and I found it one of the most memorable. The vocabulary and grammar are straightforward, though there are sections where my translation differs from other texts.
 
-The first line poses a question. The second character *lu* 廬 (which I have translated as ‘cottage’) is often translated as hut. The fourth character *ren* 人 can either be read as ‘human’ or ‘others’ (as in other humans, as opposed to oneself). The fifth character on the first line, *jing* 境, can either be translated as realm (as in the metaphysical), or a literal place. Depending on the translator, you will either hear of a humble poet who has built a hut in the realm of humans, or a successful politician who has built a cottage where others live. Given what we know about Tao Yuanming’s life, I have tended towards the second version, which is less commonly found in English translations.
+The first line reveals a lot about each translator’s approach to this poem. The second character *lu* 廬 (which I have translated as ‘cottage’) is often translated as hut. The fourth character *ren* 人 can either be read as ‘human’ or ‘others’ (as in other humans, as opposed to oneself). The fifth character on the first line, *jing* 境, can either be translated as realm (as in the metaphysical), or a literal place. Depending on the translator, you will either hear of a humble poet who has built a hut in the realm of humans, or a successful politician who has built a cottage where others live. Given what we know about Tao Yuanming’s life, I have tended towards the second version, which is less commonly found in English translations. The final character of this line *xuan* 喧 is often translated to ‘clamour’. I prefer ‘bustle’, describing a noise associated with other people’s busyness. 
 
 I take a similar approach by translating *di* 地 in the third line as ‘place’. Not ‘my place’, not ‘a place’, not ‘one’s place’. This invites an exoticised, metaphysical connotation for those who wish to find it. Like many of the poems in this collection, the original text offers nothing more specific. I made this choice because the final line of the poem is all the more impactful if we assume that the poet has been as concise as he can be in the preceding lines. 
 

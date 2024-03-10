@@ -154,7 +154,7 @@ figcaption {
   text-transform: uppercase;
   &:hover,
   &:focus {
-    background: lighten($brand-color, 2.5%);
+    background: lighten($brand-color, 35%);
     border-color: $text-color;
     margin-top: 0;
   }
@@ -166,6 +166,22 @@ figcaption {
   height: 2px;
   border-radius: 50%;
   background-color: #000000;
+}
+
+details summary::-webkit-details-marker {
+  display:none;
+}
+
+summary {
+  font-size: 1em;
+  font-style: italic;
+  margin: 2em auto;
+  text-align: center;
+  cursor: pointer;
+}
+
+summary:hover {
+  background: lighten($brand-color, 35%);
 }
 
 .container .dot:nth-last-child(1) {
