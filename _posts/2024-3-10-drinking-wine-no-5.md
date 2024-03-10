@@ -5,7 +5,7 @@ dates: 365 - 427
 categories: tao-yuanming-陶淵明
 ---
  
-Tao Yuanming's beautiful meditation on existence and the silent joy that can be found in the simplicity of nature and solitude<!--more-->, this poem reflects his love for the peacefulness of rural life.
+Tao Yuanming's beautiful meditation on the silent joy that can be found in the simplicity of nature and solitude<!--more-->, this poem reflects his love for the peacefulness of rural life.
 <br>
 
 >**饮酒·其五**
