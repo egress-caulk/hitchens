@@ -184,6 +184,23 @@ summary:hover {
   background: lighten($brand-color, 35%);
 }
 
+.poet-container {
+  display: flex;
+}
+
+.poet-name {
+  flex: 3; /* Adjust the ratio here for poet names */
+  padding-right: 15px; /* Space between columns */
+}
+
+.poet-years {
+  flex: 1; /* Adjust the ratio here for poet years */
+}
+
+details {
+  margin-bottom: 10px;
+}
+
 .container .dot:nth-last-child(1) {
   animation: jumpingAnimation 0.6s 0.1s ease-in infinite;
 }
