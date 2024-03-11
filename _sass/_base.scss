@@ -189,15 +189,16 @@ summary:active {
 
 .poet-container {
   display: flex;
+  justify-content: space-between; /* Puts maximum space between children */
 }
 
 .poet-name {
-  flex: 2; /* Adjust the ratio here for poet names */
-  padding-right: 15px; /* Space between columns */
+  padding-left: 50px; /* Space between columns */
 }
 
 .poet-years {
-  flex: 1; /* Adjust the ratio here for poet years */
+  text-align: right;
+  padding-right: 50px;
 }
 
 details {
