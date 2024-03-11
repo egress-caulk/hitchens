@@ -219,8 +219,12 @@ details {
 
 .pagination {
   display: flex;
+  font-size: 0.7em;
   justify-content: space-between;
   align-items: center;
+  @media (min-width: $on-tablet) {
+    font-size: 1em;
+  }
 }
 
 .pagination-number {

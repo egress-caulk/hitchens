@@ -16,6 +16,7 @@
 .post-link {
   color: $text-color;
   display: flex;
+  font-size: 0.7em;
   flex-direction: column-reverse;
   text-decoration: none;
   padding: .25em;
@@ -26,6 +27,7 @@
   }
   @media (min-width: $on-tablet) {
     display: flex;
+    font-size: 1em;
     flex-direction: row;
     justify-content: space-between;
     .post-date {
@@ -58,6 +60,7 @@
   flex-direction: row;
   justify-content: space-between;
   text-align: center;
+
   > * {
     flex-grow: 1;
     flex-basis: 0;
