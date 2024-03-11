@@ -21,7 +21,7 @@
   list-style: none;
   font-size: .875em;
   font-variant: small-caps;
-  margin: 0; // Tighter margin for small screens
+  margin: 0;
   &.active a {
     text-decoration: underline;
   }
@@ -41,8 +41,7 @@
 // Styles for larger screens
 @media (min-width: 768px) { // Adjust the pixel value based on your design's breakpoint
   .site-navigation li {
-    // Increase the left and right margin for each list item
-    margin: 0 2em; // Adjust "1em" to increase or decrease the spacing
+    margin: 0 1em;
   }
 
   .site-navigation a {
