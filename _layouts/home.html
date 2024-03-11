@@ -3,65 +3,59 @@ layout: default
 ---
 
   <header class="site-masthead">
-    {% include menu.html %}
-    {% if site.title %}
-      <h1>
-        {{ site.title }}
-      </h1>
-    {% endif %}
-    {% if site.title %}
-      <h2>
-        {{ site.description }}
-      </h2>
-    {% endif %}
-  </header>
+  {% include menu.html %}
+<br><h2 class="header-title">
+  <a href="/read">Chinese Poetry</a>
+</h2>
+<h3 class="header-subtitle">
+  Translated by Steve Lipscombe
+</h3>
+</header>
 
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting" id="main" role="article" aria-label="Content">
 
-<main class="home" id="main" role="main" aria-label="Content">
+  <div class="post-content e-content" itemprop="articleBody">
+    <a id="list"><h1 class="content-title divided">
+    </h1></a>
 
+    <a id="poems"></a>
+    {% if site.paginate and site.paginate_path %}
 
-  <a id="list"><h1 class="content-title divided">
-    {% if site.paginate and site.paginate_path and paginator.page > 1 %}
-<a href="/read">Read a poem</a>, or browse <br><br>
+      <ul class="post-list">
+        {% for post in paginator.posts %}
+          {% include post-list-item.html %}
+        {% endfor %}
+      </ul>
+<a id="list">
+<br>
+<h1 class="content-title divided">
+    </h1></a>
+{% if paginator.total_pages > 1 %}
+  <div class="pagination" style="display: flex; justify-content: space-between; align-items: center;">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path | append: '#poems' }}" class="pagination-previous">&laquo; Newer</a>
     {% else %}
-<a href="/read">Read a poem</a>, or browse <br><br>
+      <span></span> <!-- Placeholder for alignment -->
     {% endif %}
-  </h1></a>
-<a id="poems"></a>
-  {% if site.paginate and site.paginate_path %}
-    
-    <ul class="post-list">
-      {% for post in paginator.posts %}
-        {% include post-list-item.html %}
-      {% endfor %}
-    </ul>
+    <span class="pagination-number" style="flex-grow: 1; text-align: center;">{{ paginator.page }} of {{ paginator.total_pages }}</span>
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | append: '#poems' }}" class="pagination-next">Older &raquo;</a>
+    {% else %}
+      <span></span> <!-- Placeholder for alignment -->
+    {% endif %}
+  </div>
+{% endif %}
 
-    {% if paginator.total_pages > 1 %}
 
-      <div class="post-pagination">
-       {% if paginator.previous_page %}
-          <a href="{{ paginator.previous_page_path | append: "#poems" }}" class="pagination-previous btn">&lang;&nbsp;Newer</a>
-        {% else %}
-          <span>&nbsp;</span>
-        {% endif %}
-        <span class="pagination-number">{{ paginator.page }} of {{ paginator.total_pages }}</span>
-        {% if paginator.next_page %}
-          <a href="{{ paginator.next_page_path | append: "#poems" }}" class="pagination-next btn">Older&nbsp;&rang;</a>
-        {% else %}
-          <span>&nbsp;</span>
-        {% endif %}
-      </div>
+    {% else %}
+
+      <ul class="post-list">
+        {% for post in site.posts %}
+          {% include post-list-item.html %}
+        {% endfor %}
+      </ul>
 
     {% endif %}
-
-  {% else %}
-
-    <ul class="post-list">
-      {% for post in site.posts %}
-        {% include post-list-item.html %}
-      {% endfor %}
-    </ul>
-  
-  {% endif %}
     
-</main>
+  </div>
+</article>

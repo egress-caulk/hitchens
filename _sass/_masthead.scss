@@ -23,3 +23,22 @@
     font-size: 3em;
   }
 }
+
+// Add styles for the links within .site-masthead h2
+.site-masthead h2 a {
+  color: inherit;            // Inherits the color from .site-masthead h2
+  font-size: inherit;        // Inherits the font-size from .site-masthead h2
+  text-decoration: none;     // Remove underlines from links
+  margin: 0;                 // Maintain the margin and padding
+  padding: 0;
+
+  // You could optionally add styles for different states if necessary
+  &:link,
+  &:visited,
+  &:hover,
+  &:active {
+    color: inherit;          // Ensure the link color does not change
+    text-decoration: none;   // No underlines on hover, click, or visited
+    cursor: pointer;
+  }
+}

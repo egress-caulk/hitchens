@@ -1,11 +1,5 @@
-- title: Read A Poem
-  url: /read
-
 - title: Poets
   url: /poets
-
-- title: Newsletter
-  url: /newsletter
 
 - title: About
   url: /about

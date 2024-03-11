@@ -110,6 +110,8 @@ figcaption {
 .divided::after {
   content: "";
   @include divider;
+  margin-top: 1em; // Space above the divider
+  display: block;  // Usually needed to apply margin to pseudo-elements
 }
 
 .home {
@@ -180,7 +182,8 @@ summary {
   cursor: pointer;
 }
 
-summary:hover {
+summary:hover,
+summary:active {
   background: lighten($brand-color, 35%);
 }
 
@@ -199,6 +202,44 @@ summary:hover {
 
 details {
   margin-bottom: 10px;
+}
+
+.special-footer-link {
+  display: block;
+  padding: 0.25em 0.5em;
+  text-decoration: none;
+  transition: opacity 0.125s ease-in-out;
+  opacity: 0.75; /* Let's assume initial opacity of 0.75 */
+}
+
+.special-footer-link:hover,
+.special-footer-link:focus {
+  opacity: 1;
+}
+
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.pagination-number {
+  flex-grow: 1;
+  text-align: center;
+}
+
+.pagination-previous,
+.pagination-next {
+  /* Additional styles for the links if needed */
+}
+
+.header-title {
+  margin-bottom: 0;  /* Reduce the bottom margin as desired */
+  margin-top: 2;  /* Remove the top margin */
+}
+
+.header-subtitle {
+  margin-top: 0;  /* Remove the top margin */
 }
 
 .container .dot:nth-last-child(1) {
