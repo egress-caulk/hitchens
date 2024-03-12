@@ -29,8 +29,8 @@ Tao Yuanming's beautiful meditation on the silent joy that can be found in the s
 > In these things there is true meaning,<br>
 > I long to explain it but fail to find the words.<br><br>
 
-    
-##### Translation notes
+<p class="post-title divided p-name"></p>      
+### Translation notes
 
 This was one of the first Chinese poems I studied, and I found it one of the most memorable. The vocabulary and grammar are straightforward, though there are sections where my translation differs from other texts.
 
