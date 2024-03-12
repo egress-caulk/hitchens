@@ -38,7 +38,7 @@
 
 .post-link__heading {
   display: block;
-  margin-right: 0.8em;
+  margin-right: 0.7em;
   @media (min-width: $on-tablet) {
     padding: .25em 0;
     margin-right: 4em;
@@ -50,7 +50,25 @@
   }
 }
 
+.poet-link__heading {
+  display: block;
+  margin-right: 0.7em;
+  @media (min-width: $on-tablet) {
+    padding: .25em 0;
+    margin-right: 1em;
+  }
+  h1 {
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-top: 0;
+  }
+}
+
 .post-link__title + .post-link__excerpt {
+  opacity: .6;
+}
+
+.poet-link__title + .post-link__excerpt {
   opacity: .6;
 }
 

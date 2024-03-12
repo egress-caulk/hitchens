@@ -3,3 +3,18 @@ layout: page
 ---
 
 {{ content }}
+
+<br><br>
+<p class="post-title divided p-name"></p>
+<br>
+<h3>Poems</h3>
+
+<div class="post-content e-content" itemprop="articleBody">
+  
+  {% assign filtered_posts = site.posts | where: 'author', page.title %}
+  <ul class="post-list">
+    {% for post in filtered_posts %}
+      {% include poet-list-item.html %}
+    {% endfor %}
+  </ul>
+</div>

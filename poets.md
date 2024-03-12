@@ -1,5 +1,5 @@
 ---
-layout: poet
+layout: page
 title: Poets
 canonical_url: 'https://www.stevelipscom.be/poets'
 ---
