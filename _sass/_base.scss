@@ -61,11 +61,25 @@ a:focus {
 }
 
 blockquote {
-  margin: 2em auto;
+  margin: 2em auto 1em; /* Reduced margin for mobile */
+  font-size: 0.9em; /* Slightly smaller font-size */
   opacity: .8;
-  > * {
-    padding: 0 3em;
+
+  // Media query to adjust styling for larger screens (tablet size and above)
+  @media (min-width: $on-tablet) {
+    margin: 2em auto; /* Increased margin for tablet and larger screens */
+    font-size: 1em; /* Default font-size for tablet and larger screens */
   }
+
+  // This applies padding to all direct children of blockquote
+  > * {
+    padding: 0 3em; /* Padding for larger screens */
+  }
+}
+
+// Separate rule to apply padding to all direct children of blockquote for mobile (should be outside the @media block)
+blockquote > * {
+  padding: 0 1em; /* Reduced padding for mobile */
 }
 
 blockquote.epigraph {
