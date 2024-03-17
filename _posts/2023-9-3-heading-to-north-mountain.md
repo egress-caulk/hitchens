@@ -4,7 +4,7 @@ author: Xie Lingyun 謝靈運
 dates: 385 - 433
 categories: xie-lingyun-謝靈運
 ---
-This poem sees Xie Lingyun journeying deep into the mountains and meaning.<!--more--> *Poet Xie*, who we first met in Li Bai's [dream](/poets/li-bai-李白/ballad-on-leaving-a-voyage-of-tianmu-mountain-in-a-dream), is regarded in the West as one of China's first 'landscape poets'. Here we see how such definitions might be more complex than they first appear. 
+Xie Lingyun journeys deep into the mountains and meaning.<!--more--> *Poet Xie*, who we first met in Li Bai's [dream](/poets/li-bai-李白/ballad-on-leaving-a-voyage-of-tianmu-mountain-in-a-dream), is regarded in the West as one of China's first 'landscape poets'. Here we see how such definitions might be more complex than they first appear. 
   
 <br>
 
