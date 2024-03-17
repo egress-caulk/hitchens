@@ -21,7 +21,7 @@ Tao Yuanming's beautiful meditation on the silent joy that can be found in the s
 > I built my cottage where others dwell, <br>
 > Yet there is no bustle from the horses and carriages.<br>
 > You ask ‘How can this be?’<br>
-> When the heart is far, place becomes removed from itself.<br>
+> With my heart set apart from the world around me, place becomes removed from itself.<br>
 > I gather chrysanthemums under the eastern hedge,<br>
 > Wistfully gazing towards the southern mountains.<br>
 > The mountain air at sunset is delightful,<br>
@@ -29,7 +29,7 @@ Tao Yuanming's beautiful meditation on the silent joy that can be found in the s
 > In these things there is true meaning,<br>
 > I long to explain it but fail to find the words.<br><br>
 
-<p class="post-title divided p-name"></p>      
+<p class="post-title divided p-name"></p>       
 ### Translation notes
 
 This was one of the first Chinese poems I studied, and I found it one of the most memorable. The vocabulary and grammar are straightforward, though there are sections where my translation differs from other texts.
