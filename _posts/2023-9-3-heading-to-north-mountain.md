@@ -3,8 +3,9 @@ title: "Heading from South Mountain to North Mountain"
 author: Xie Lingyun 謝靈運
 dates: 385 - 433
 categories: xie-lingyun-謝靈運
+location: Karkonosze
 ---
-Xie Lingyun journeys deep into the mountains and meaning.<!--more--> *Poet Xie*, who we first met in Li Bai's [dream](/poets/li-bai-李白/ballad-on-leaving-a-voyage-of-tianmu-mountain-in-a-dream), is regarded in the West as one of China's first 'landscape poets'. Here we see how such definitions might be more complex than they first appear. 
+Xie Lingyun journeys deep into the mountains and meaning.<!--more--> *Poet Xie*, who we first met in Li Bai's [dream](/read/index.html?poem=/poets/li-bai-李白/ballad-on-leaving-a-voyage-of-tianmu-mountain-in-a-dream), is regarded in the West as one of China's first 'landscape poets'. Here we see how such definitions might be more complex than they first appear. 
   
 <br>
 
@@ -72,7 +73,7 @@ Here, Xie has identified patterns in nature and juxtaposed them with the pattern
 
 The final line may also represent this idea. *Shang* 賞 means to recognise the worth of something and *fei* 廢 means to dismiss, abolish, or abandon something. A clever double meaning exists here: Xie could simply be referring to the importance of examining the natural world with a poetic eye: "if we abandon the capacity to appreciate the world around us, we will be unable to convey the truth of things". However, an alternative reading could yield an oblique reference to his demotion: "when those who are able to appreciate the world around them are demoted, who will convey the underlying truth of things [to those who govern]?"
 
-Finally, an obscure connection to share with you. Most translations of this poem translate *tianji* 天雞 (heavenly rooster) as "celestial birds", but I read the Heavenly Rooster here as a direct referenced from Li Bai's [dream](/poets/li-bai-李白/ballad-on-leaving-a-voyage-of-tianmu-mountain-in-a-dream):
+Finally, an obscure connection to share with you. Most translations of this poem translate *tianji* 天雞 (heavenly rooster) as "celestial birds", but I read the Heavenly Rooster here as a direct referenced from Li Bai's [dream](/read/index.html?poem=/poets/li-bai-李白/ballad-on-leaving-a-voyage-of-tianmu-mountain-in-a-dream):
 > I put on the hiking clogs of Poet Xie <br>
 > And climbed the mountain path to the clouds <br>
 > Halfway up I saw the sun over the sea <br>

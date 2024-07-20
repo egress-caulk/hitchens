@@ -4,22 +4,34 @@ layout: read
 
 <html>
 <head>
-
 	<script>
+		// Function to get query parameters
+		function getQueryParam(param) {
+			let urlParams = new URLSearchParams(window.location.search);
+			return urlParams.get(param);
+		}
+
 		var posts = [];
 		{% for post in site.posts %}
 		posts.push("{{ post.url }}");
 		{% endfor %}
 
-		document.write("<meta http-equiv=\"refresh\" content=\"1;url=");
-		document.write(posts[Math.floor(Math.random() * posts.length)]);
-		document.write("\">");
+		// Check if 'poem' query parameter exists
+		let poem = getQueryParam('poem');
+		if (poem) {
+			// Redirect to the specified poem
+			document.write("<meta http-equiv=\"refresh\" content=\"1;url=" + poem + "\">");
+		} else {
+			// Redirect to a random poem
+			let randomPost = posts[Math.floor(Math.random() * posts.length)];
+			document.write("<meta http-equiv=\"refresh\" content=\"1;url=" + randomPost + "\">");
+		}
 	</script>
 </head>
 
 <body>
 <center>
-	<div class="container">Finding a poem <div class="dot"></div><div class="dot"></div><div class="dot"></div></center>
-
+	<div class="container">Finding your poem <div class="dot"></div><div class="dot"></div><div class="dot"></div></div>
+</center>
 </body>
 </html>

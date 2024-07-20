@@ -3,6 +3,7 @@ title: "The Send-off"
 author: Wang Wei 王維
 dates: 699 - 759
 categories: wang-wei-王維
+location: Warsaw
 ---
 Wang Wei bumps into an old friend and offers him wine.<!--more--> But his friend isn't drinking...
   
@@ -30,4 +31,4 @@ Let's start with the title. Many translators go for 'farewell'. I feel like 'far
 
 The meaning of this poem is in the phrase *bai yun* 白雲 ('white clouds'). White clouds are free and transitory, and this idea can be metaphorically applied to the state of mind of the subject of the poem. The traveller has chosen a transitory life having felt previously unfulfilled, and we know that Wang Wei has led a similarly free-spirited life. The representation through the white clouds of a free and transitory life in every direction signifies a meaningful moment of understanding shared between two souls on their own paths.<br>
 
-Another reference in the poem is the idea of retreating to seclusion in the southern mountains. This echoes [*Drinking Wine No. 5*](/poets/tao-yuanming-陶淵明/drinking-wine-no-5) by [Tao Yuanming 陶渊明](/poets/tao-yuanming-陶淵明).
+Another reference in the poem is the idea of retreating to seclusion in the southern mountains. This echoes [*Drinking Wine No. 5*](/read/index.html?poem=/poets/tao-yuanming-陶淵明/drinking-wine-no-5) by [Tao Yuanming 陶渊明](/poets/tao-yuanming-陶淵明).

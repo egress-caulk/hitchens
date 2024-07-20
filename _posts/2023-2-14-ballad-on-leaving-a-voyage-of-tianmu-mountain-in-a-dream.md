@@ -3,6 +3,7 @@ title: "Ballad On Leaving A Voyage Of Tianmu Mountain In A Dream"
 author: Li Bai 李白 
 dates: 701 - 762
 categories: li-bai-李白
+location: Sardinia
 ---
 The great master Li Bai reflects on an unforgettable dream he once had<!--more-->, and then pauses to reflect on the nature of happiness. This poem is widely considered to be one of his masterpieces.
   

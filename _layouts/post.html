@@ -8,7 +8,7 @@ layout: default
   {% include back-link.html %}
 {% endif %}
 
-<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting" id="main" role="article" aria-label="Content">
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting" id="main" role="article">
 
   {% if page.title != "" %}
     <h1 class="post-title divided p-name" itemprop="name headline">
@@ -26,10 +26,12 @@ layout: default
     {{ content }}
   </div>
 
-
   {% if page.layout == "post" %}
   <div class="post-meta">
-    <time class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>
+    <!-- Display location and date for all posts -->
+    <div class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+      {{ page.location }}, {{ page.date | date: "%B %-d, %Y" }}
+    </div>
   </div>
   {% else %} <br><br>
   {% endif %}
@@ -37,7 +39,6 @@ layout: default
   {% if site.disqus.shortname %}
     {% include disqus-comments.html %}
   {% endif %}
-
 
 {% if page.layout == "post" %}
 <p class="post-title divided p-name"></p>
@@ -47,4 +48,3 @@ layout: default
 {% endif %}
 
 </article>
-
