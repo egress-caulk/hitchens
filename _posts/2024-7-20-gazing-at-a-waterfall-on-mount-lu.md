@@ -24,7 +24,7 @@ Li Bai, having retired to Mount Lu, admires a waterfall at Incense Burner Peak<!
 > Sunlight illuminates Incense Burner Peak raising purple smoke <br>
 > From afar I see a waterfall suspended before the river <br>
 > Flying, flowing, plunging down three thousand feet <br>
-> As if it’s the river of stars descending from celestial heights <br><br><br>
+> Could it be the river of stars falling from highest heaven? <br><br><br>
 
 <p class="post-title divided p-name"></p>    
 ### Translation notes
@@ -35,6 +35,6 @@ It’s such a famous poem, that perhaps even the translation notes are well know
 
 In the second line *gua* 掛 can mean to hang, to suspend, or to droop down. I like suspend because it better conveys the idea that this wall of water can appear as if it is static, which is then further explored in the following line.
 
-I translated the third line quite literally. I played with the idea of ‘flying with the current’ but ultimately I think the stream of words I ended up with does enough to convey the power of what Li Bai is trying to convey.
+I translated the third line quite literally. I played with the idea of ‘flying with the current’ but ultimately I think the stream of words I ended up with does enough to convey the power of what Li Bai is trying to convey. I’ve perhaps been a little creative in my translation of *zhi xia* as ‘plunging’, when it literally means ‘straight down’. However, when read in English ‘straight down’ seems to indicate a direction absent of the movement conveyed by the other characters in the line. 
 
-We already know Li Bai has a [vivid imagination](/read/index.html?poem=/poets/li-bai-李白/ballad-on-leaving-a-voyage-of-tianmu-mountain-in-a-dream). The question is, what is he imagining in the final line? *Yinhe* 銀河 in Modern Chinese means the Milky Way, but is literally comprised of two characters that translate to ‘silver river’. Li Bai would not have known the concept of the Milky Way, but would have recognised the river of stars appearing to fall in the dark night sky that we now call the Milky Way. In his mind, they fall from a place that he calls ninth heaven (*jiutian* 九天). This is the outer edge of heaven, reserved for the grandest spirits and deities. It is also the furthest point in the deep sky that can possibly be imagined. I went with ‘celestial heights’ here to give a sense of the metaphysical and the literal. Meanwhile, Watson preferred ‘the ninth height of heaven’.
+We already know Li Bai has a [vivid imagination](/read/index.html?poem=/poets/li-bai-李白/ballad-on-leaving-a-voyage-of-tianmu-mountain-in-a-dream). The question is, what is he imagining in the final line? *Yinhe* 銀河 in Modern Chinese means the Milky Way, but is literally comprised of two characters that translate to ‘silver river’. Li Bai would not have known the concept of the Milky Way, but would have recognised the river of stars appearing to fall in the dark night sky that we now call the Milky Way. In his mind, they fall from a place that he calls ninth heaven (*jiutian* 九天). This is the outer edge of heaven, reserved for the grandest spirits and deities. It is also the furthest point in the deep sky that can possibly be imagined. I went with ‘highest heaven’ here to give a sense of the metaphysical and an idea of the edge of distance. Meanwhile, Watson preferred ‘the ninth height of heaven’.
