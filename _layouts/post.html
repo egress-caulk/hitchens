@@ -30,7 +30,7 @@ layout: default
   <div class="post-meta">
     <!-- Display location and date for all posts -->
     <div class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-      {{ page.location }}, {{ page.date | date: "%B %-d, %Y" }}
+      {{ page.location }} — {{ page.date | date: "%B %Y" }}
     </div>
   </div>
   {% else %} <br><br>
