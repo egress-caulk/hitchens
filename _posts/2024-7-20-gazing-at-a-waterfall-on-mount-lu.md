@@ -22,7 +22,7 @@ Li Bai, having retired to Mount Lu, admires a waterfall at Incense Burner Peak<!
 <br>      
     
 > Sunlight illuminates Incense Burner Peak raising purple smoke <br>
-> From afar I see a waterfall suspended before the river <br>
+> From afar I see a waterfall suspended before the river<br>
 > Flying, flowing, plunging down three thousand feet <br>
 > Could it be the river of stars falling from highest heaven? <br><br><br>
 
