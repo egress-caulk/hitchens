@@ -23,4 +23,4 @@ My main sources for this work are resources that were not available to me when I
 
 <br>
 
-I built this website myself using a customised version of the [Hitchens theme](https://github.com/patdryburgh/hitchens), powered by [Jekyll](https://jekyllrb.com).
+I built this website myself using a customised version of the [Hitchens theme](https://github.com/patdryburgh/hitchens), powered by [Jekyll](https://jekyllrb.com). Each translation on this site is a living document, and will be continually altered and refined after publication.
