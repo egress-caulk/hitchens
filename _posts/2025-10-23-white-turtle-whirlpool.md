@@ -13,7 +13,7 @@ Wang Wei visits a whirlpool and writes what’s on his mind.<!--more-->
 > 南山之瀑水兮，激石瀥瀑似雷驚。<br>
 > 人相對兮，不聞語聲。<br>
 > 翻渦跳沫兮蒼苔濕，蘚老且厚，春草爲之不生。<br>
-> 獸不敢驚動，鳥不敢飛鳴。<br>  
+> 獸不敢驚動，鳥不敢飛鳴。<br>
 > 白黿渦濤戲瀨兮，委身以縱橫。<br>
 > 王人之仁兮，不網不釣，得遂性以生成。<br><br>
 
@@ -23,7 +23,7 @@ Wang Wei visits a whirlpool and writes what’s on his mind.<!--more-->
 > South Mountain Waterfall striking the rocks, spray crashing, startling like thunder.<br>
 > Face to face beside it, one can’t hear the other’s voice.<br>
 > The rolling whirlpool, jumping, foaming,
-gray-green moss drenched, so old and thick that spring grass won’t grow.<br> 
+grey-green moss drenched, so old and thick that spring grass won’t grow.<br> 
 > No wild animal dares stir, no bird dares fly and call.<br>
 > At White Turtle Whirlpool, the waves play in the shallows, yielding bodies drift this way and that.<br> 
 > By the benevolence of the king’s men, no nets nor hooks: creatures may follow their nature and grow to full life.<br><br><br>
